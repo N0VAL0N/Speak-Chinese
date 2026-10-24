@@ -1,0 +1,46 @@
+{
+  "name": "hsk-trainer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "python scripts/build_knowledge.py && vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor-community/text-to-speech": "^6.1.0",
+    "@capacitor/android": "^8.1.0",
+    "@capacitor/app": "^8.0.1",
+    "@capacitor/app-launcher": "^8.0.1",
+    "@capacitor/cli": "^8.1.0",
+    "@capacitor/core": "^8.1.0",
+    "@capacitor/filesystem": "^8.1.2",
+    "@capacitor/ios": "^8.1.0",
+    "@capacitor/local-notifications": "^8.0.1",
+    "@capacitor/status-bar": "^8.0.1",
+    "@types/uuid": "^10.0.0",
+    "fuse.js": "^7.1.0",
+    "hanzi-writer": "^3.7.3",
+    "idb": "^8.0.3",
+    "lucide-vue-next": "^0.564.0",
+    "pinia": "^3.0.4",
+    "uuid": "^13.0.0",
+    "vue": "^3.5.25",
+    "vue-advanced-cropper": "^2.8.9",
+    "vue-router": "^5.0.2",
+    "vue-virtual-scroll-grid": "^1.11.0",
+    "vue-virtual-scroller": "^2.0.0-beta.8"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@rollup/plugin-json": "^6.1.0",
+    "@types/node": "^24.10.14",
+    "@types/semver": "^7.7.1",
+    "@vitejs/plugin-vue": "^6.0.2",
+    "@vue/tsconfig": "^0.8.1",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1",
+    "vue-tsc": "^3.1.5"
+  }
+}

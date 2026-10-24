@@ -1,0 +1,1050 @@
+[
+  {
+    "id": "read-hsk1-1",
+    "level": "1",
+    "title": "我的小狗",
+    "title_pinyin": "wǒ de xiǎo gǒu",
+    "title_ru": "Моя собачка",
+    "content": "我家有一只小狗。它是白色的，非常可爱。每天我放学回家，它都跑过来欢迎我。我很喜欢它。",
+    "pinyin": "wǒ jiā yǒu yī zhī xiǎo gǒu. tā shì bái sè de, fēi cháng kě ài. měi tiān wǒ fàng xué huí jiā, tā dōu pǎo guò lái huān yíng wǒ. wǒ hěn xǐ huān tā.",
+    "translation": "У меня дома есть маленькая собачка. Она белая и очень милая. Каждый день, когда я возвращаюсь из школы, она подбегает ко мне. Я её очень люблю.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "我家有什么？",
+          "pinyin": "wǒ jiā yǒu shénme?",
+          "ru": "Что есть у меня дома?"
+        },
+        "options": [
+          { "chinese": "猫", "pinyin": "māo", "ru": "кошка" },
+          { "chinese": "狗", "pinyin": "gǒu", "ru": "собака" },
+          { "chinese": "鸟", "pinyin": "niǎo", "ru": "птица" },
+          { "chinese": "鱼", "pinyin": "yú", "ru": "рыба" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "狗是什么颜色的？",
+          "pinyin": "gǒu shì shénme yánsè de?",
+          "ru": "Какого цвета собака?"
+        },
+        "options": [
+          { "chinese": "黑色", "pinyin": "hēisè", "ru": "чёрный" },
+          { "chinese": "白色", "pinyin": "báisè", "ru": "белый" },
+          { "chinese": "黄色", "pinyin": "huángsè", "ru": "жёлтый" },
+          { "chinese": "棕色", "pinyin": "zōngsè", "ru": "коричневый" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "我放学回家时，小狗做什么？",
+          "pinyin": "wǒ fàngxué huí jiā shí, xiǎo gǒu zuò shénme?",
+          "ru": "Что делает собачка, когда я возвращаюсь из школы?"
+        },
+        "options": [
+          { "chinese": "睡觉", "pinyin": "shuìjiào", "ru": "спать" },
+          { "chinese": "跑过来欢迎我", "pinyin": "pǎo guòlái huānyíng wǒ", "ru": "подбегает поприветствовать меня" },
+          { "chinese": "吃饭", "pinyin": "chīfàn", "ru": "есть" },
+          { "chinese": "看电视", "pinyin": "kàn diànshì", "ru": "смотреть телевизор" }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "read-hsk1-2",
+    "level": "1",
+    "title": "去公园",
+    "title_pinyin": "qù gōng yuán",
+    "title_ru": "Поход в парк",
+    "content": "今天是星期日，我和妈妈去公园。公园里有很多树和花。我们坐在椅子上休息。我很高兴。",
+    "pinyin": "jīn tiān shì xīng qī rì, wǒ hé mā mā qù gōng yuán. gōng yuán lǐ yǒu hěn duō shù hé huā. wǒ men zuò zài yǐ zi shàng xiū xī. wǒ hěn gāo xìng.",
+    "translation": "Сегодня воскресенье, мы с мамой пошли в парк. В парке много деревьев и цветов. Мы сидим на скамейке и отдыхаем. Мне очень радостно.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "今天星期几？",
+          "pinyin": "jīntiān xīngqī jǐ?",
+          "ru": "Какой сегодня день недели?"
+        },
+        "options": [
+          { "chinese": "星期六", "pinyin": "xīngqīliù", "ru": "суббота" },
+          { "chinese": "星期日", "pinyin": "xīngqīrì", "ru": "воскресенье" },
+          { "chinese": "星期一", "pinyin": "xīngqīyī", "ru": "понедельник" },
+          { "chinese": "星期五", "pinyin": "xīngqīwǔ", "ru": "пятница" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "我和谁去公园？",
+          "pinyin": "wǒ hé shuí qù gōngyuán?",
+          "ru": "С кем я иду в парк?"
+        },
+        "options": [
+          { "chinese": "爸爸", "pinyin": "bàba", "ru": "папа" },
+          { "chinese": "妈妈", "pinyin": "māma", "ru": "мама" },
+          { "chinese": "朋友", "pinyin": "péngyou", "ru": "друг" },
+          { "chinese": "同学", "pinyin": "tóngxué", "ru": "одноклассник" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "公园里有什么？",
+          "pinyin": "gōngyuán lǐ yǒu shénme?",
+          "ru": "Что есть в парке?"
+        },
+        "options": [
+          { "chinese": "很多树和花", "pinyin": "hěn duō shù hé huā", "ru": "много деревьев и цветов" },
+          { "chinese": "很多狗", "pinyin": "hěn duō gǒu", "ru": "много собак" },
+          { "chinese": "很多车", "pinyin": "hěn duō chē", "ru": "много машин" },
+          { "chinese": "很多人", "pinyin": "hěn duō rén", "ru": "много людей" }
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "read-hsk1-3",
+    "level": "1",
+    "title": "我的老师",
+    "title_pinyin": "wǒ de lǎo shī",
+    "title_ru": "Моя учительница",
+    "content": "王老师是我的中文老师。她很年轻，也很漂亮。她上课很有意思。我们都喜欢她。",
+    "pinyin": "wáng lǎo shī shì wǒ de zhōng wén lǎo shī. tā hěn nián qīng, yě hěn piào liàng. tā shàng kè hěn yǒu yì si. wǒ men dōu xǐ huān tā.",
+    "translation": "Учительница Ван — моя преподавательница китайского языка. Она молодая и красивая. Её уроки очень интересные. Мы все её любим.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "王老师教什么？",
+          "pinyin": "Wáng lǎoshī jiāo shénme?",
+          "ru": "Что преподаёт учительница Ван?"
+        },
+        "options": [
+          { "chinese": "数学", "pinyin": "shùxué", "ru": "математика" },
+          { "chinese": "中文", "pinyin": "zhōngwén", "ru": "китайский язык" },
+          { "chinese": "英语", "pinyin": "yīngyǔ", "ru": "английский язык" },
+          { "chinese": "历史", "pinyin": "lìshǐ", "ru": "история" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "王老师怎么样？",
+          "pinyin": "Wáng lǎoshī zěnmeyàng?",
+          "ru": "Какая учительница Ван?"
+        },
+        "options": [
+          { "chinese": "很年轻，很漂亮", "pinyin": "hěn niánqīng, hěn piàoliang", "ru": "очень молодая и красивая" },
+          { "chinese": "很老，很严肃", "pinyin": "hěn lǎo, hěn yánsù", "ru": "очень старая и серьёзная" },
+          { "chinese": "很胖，很矮", "pinyin": "hěn pàng, hěn ǎi", "ru": "очень толстая и низкая" },
+          { "chinese": "很忙，很累", "pinyin": "hěn máng, hěn lèi", "ru": "очень занятая и уставшая" }
+        ],
+        "answer": 0
+      },
+      {
+        "question": {
+          "chinese": "我们喜欢王老师吗？",
+          "pinyin": "wǒmen xǐhuān Wáng lǎoshī ma?",
+          "ru": "Мы любим учительницу Ван?"
+        },
+        "options": [
+          { "chinese": "喜欢", "pinyin": "xǐhuān", "ru": "любим" },
+          { "chinese": "不喜欢", "pinyin": "bù xǐhuān", "ru": "не любим" },
+          { "chinese": "不知道", "pinyin": "bù zhīdào", "ru": "не знаем" },
+          { "chinese": "有点儿喜欢", "pinyin": "yǒudiǎnr xǐhuān", "ru": "немного любим" }
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "read-hsk2-1",
+    "level": "2",
+    "title": "我的周末",
+    "title_pinyin": "wǒ de zhōu mò",
+    "title_ru": "Мои выходные",
+    "content": "上个周末，我和朋友一起去爬山。山不太高，我们很快就上去了。从山上往下看，风景很美。中午我们在山顶吃面包和水果。下午我们慢慢走下山。虽然有点累，但是我们很开心。",
+    "pinyin": "shàng gè zhōu mò, wǒ hé péng yǒu yī qǐ qù pá shān. shān bù tài gāo, wǒ men hěn kuài jiù shàng qù le. cóng shān shàng wǎng xià kàn, fēng jǐng hěn měi. zhōng wǔ wǒ men zài shān dǐng chī miàn bāo hé shuǐ guǒ. xià wǔ wǒ men màn màn zǒu xià shān. suī rán yǒu diǎn lèi, dàn shì wǒ men hěn kāi xīn.",
+    "translation": "В прошлые выходные мы с другом ходили в горы. Гора была невысокой, мы быстро поднялись. С горы открывался красивый вид. В полдень мы ели на вершине хлеб и фрукты. Днём мы медленно спустились. Хотя немного устали, мы были очень рады.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "上个周末我和谁一起去爬山？",
+          "pinyin": "shàng gè zhōumò wǒ hé shuí yīqǐ qù páshān?",
+          "ru": "С кем я ходил в горы в прошлые выходные?"
+        },
+        "options": [
+          { "chinese": "父母", "pinyin": "fùmǔ", "ru": "родители" },
+          { "chinese": "朋友", "pinyin": "péngyou", "ru": "друг" },
+          { "chinese": "同学", "pinyin": "tóngxué", "ru": "одноклассник" },
+          { "chinese": "老师", "pinyin": "lǎoshī", "ru": "учитель" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "山高吗？",
+          "pinyin": "shān gāo ma?",
+          "ru": "Гора высокая?"
+        },
+        "options": [
+          { "chinese": "很高", "pinyin": "hěn gāo", "ru": "очень высокая" },
+          { "chinese": "不太高", "pinyin": "bù tài gāo", "ru": "не очень высокая" },
+          { "chinese": "非常矮", "pinyin": "fēicháng ǎi", "ru": "очень низкая" },
+          { "chinese": "不知道", "pinyin": "bù zhīdào", "ru": "не знаю" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "中午我们在山顶吃什么？",
+          "pinyin": "zhōngwǔ wǒmen zài shāndǐng chī shénme?",
+          "ru": "Что мы ели на вершине горы в полдень?"
+        },
+        "options": [
+          { "chinese": "米饭和菜", "pinyin": "mǐfàn hé cài", "ru": "рис и овощи" },
+          { "chinese": "面包和水果", "pinyin": "miànbāo hé shuǐguǒ", "ru": "хлеб и фрукты" },
+          { "chinese": "面条", "pinyin": "miàntiáo", "ru": "лапша" },
+          { "chinese": "饺子", "pinyin": "jiǎozi", "ru": "пельмени" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "我们觉得累吗？开心吗？",
+          "pinyin": "wǒmen juéde lèi ma? kāixīn ma?",
+          "ru": "Мы устали? Рады?"
+        },
+        "options": [
+          { "chinese": "不累，很开心", "pinyin": "bù lèi, hěn kāixīn", "ru": "не устали, очень рады" },
+          { "chinese": "有点累，但是很开心", "pinyin": "yǒudiǎn lèi, dànshì hěn kāixīn", "ru": "немного устали, но очень рады" },
+          { "chinese": "很累，不开心", "pinyin": "hěn lèi, bù kāixīn", "ru": "очень устали, не рады" },
+          { "chinese": "不累，也不开心", "pinyin": "bù lèi, yě bù kāixīn", "ru": "не устали и не рады" }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "read-hsk2-2",
+    "level": "2",
+    "title": "去图书馆",
+    "title_pinyin": "qù tú shū guǎn",
+    "title_ru": "Поход в библиотеку",
+    "content": "昨天下午我没有课，就一个人去了图书馆。图书馆里很安静，有很多人在看书。我找了一本关于旅行的书，坐在窗边看。书里的照片很漂亮，我看了两个小时。回家的路上，我决定以后常去图书馆。",
+    "pinyin": "zuó tiān xià wǔ wǒ méi yǒu kè, jiù yī gè rén qù le tú shū guǎn. tú shū guǎn lǐ hěn ān jìng, yǒu hěn duō rén zài kàn shū. wǒ zhǎo le yī běn guān yú lǚ xíng de shū, zuò zài chuāng biān kàn. shū lǐ de zhào piàn hěn piào liàng, wǒ kàn le liǎng gè xiǎo shí. huí jiā de lù shàng, wǒ jué dìng yǐ hòu cháng qù tú shū guǎn.",
+    "translation": "Вчера днём у меня не было уроков, и я один пошёл в библиотеку. В библиотеке было очень тихо, много людей читали книги. Я нашёл книгу о путешествиях и сел у окна читать. Фотографии в книге были очень красивые, я читал два часа. По дороге домой я решил, что буду чаще ходить в библиотеку.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "昨天下午我去哪儿了？",
+          "pinyin": "zuótiān xiàwǔ wǒ qù nǎr le?",
+          "ru": "Куда я ходил вчера днём?"
+        },
+        "options": [
+          { "chinese": "公园", "pinyin": "gōngyuán", "ru": "парк" },
+          { "chinese": "图书馆", "pinyin": "túshūguǎn", "ru": "библиотека" },
+          { "chinese": "商店", "pinyin": "shāngdiàn", "ru": "магазин" },
+          { "chinese": "学校", "pinyin": "xuéxiào", "ru": "школа" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "图书馆里怎么样？",
+          "pinyin": "túshūguǎn lǐ zěnmeyàng?",
+          "ru": "Как в библиотеке?"
+        },
+        "options": [
+          { "chinese": "很吵", "pinyin": "hěn chǎo", "ru": "очень шумно" },
+          { "chinese": "很安静", "pinyin": "hěn ānjìng", "ru": "очень тихо" },
+          { "chinese": "很多人说话", "pinyin": "hěn duō rén shuōhuà", "ru": "много людей разговаривают" },
+          { "chinese": "很热", "pinyin": "hěn rè", "ru": "очень жарко" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "我看了什么书？",
+          "pinyin": "wǒ kàn le shénme shū?",
+          "ru": "Какую книгу я читал?"
+        },
+        "options": [
+          { "chinese": "关于历史的书", "pinyin": "guānyú lìshǐ de shū", "ru": "книга об истории" },
+          { "chinese": "关于旅行的书", "pinyin": "guānyú lǚxíng de shū", "ru": "книга о путешествиях" },
+          { "chinese": "关于动物的书", "pinyin": "guānyú dòngwù de shū", "ru": "книга о животных" },
+          { "chinese": "关于科技的书", "pinyin": "guānyú kējì de shū", "ru": "книга о науке и технике" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "我看了多长时间？",
+          "pinyin": "wǒ kàn le duō cháng shíjiān?",
+          "ru": "Сколько времени я читал?"
+        },
+        "options": [
+          { "chinese": "一个小时", "pinyin": "yī gè xiǎoshí", "ru": "один час" },
+          { "chinese": "两个小时", "pinyin": "liǎng gè xiǎoshí", "ru": "два часа" },
+          { "chinese": "三个小时", "pinyin": "sān gè xiǎoshí", "ru": "три часа" },
+          { "chinese": "半个小时", "pinyin": "bàn gè xiǎoshí", "ru": "полчаса" }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "read-hsk2-3",
+    "level": "2",
+    "title": "学汉语",
+    "title_pinyin": "xué hàn yǔ",
+    "title_ru": "Изучение китайского",
+    "content": "我学汉语已经一年了。刚开始的时候我觉得发音很难，现在好多了。我每天都会听中文歌，看中文电影。有时候我用微信和中国朋友聊天。他们说我进步很快。我很高兴，也会继续努力。",
+    "pinyin": "wǒ xué hàn yǔ yǐ jīng yī nián le. gāng kāi shǐ de shí hòu wǒ jué de fā yīn hěn nán, xiàn zài hǎo duō le. wǒ měi tiān dū huì tīng zhōng wén gē, kàn zhōng wén diàn yǐng. yǒu shí hòu wǒ yòng wēi xìn hé zhōng guó péng yǒu liáo tiān. tā men shuō wǒ jìn bù hěn kuài. wǒ hěn gāo xìng, yě huì jì xù nǔ lì.",
+    "translation": "Я учу китайский уже год. Поначалу мне казалось, что произношение очень трудное, сейчас намного лучше. Каждый день я слушаю китайские песни и смотрю китайские фильмы. Иногда я переписываюсь в WeChat с китайскими друзьями. Они говорят, что я быстро прогрессирую. Я очень рад и буду продолжать стараться.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "我学汉语多长时间了？",
+          "pinyin": "wǒ xué hànyǔ duō cháng shíjiān le?",
+          "ru": "Как долго я учу китайский?"
+        },
+        "options": [
+          { "chinese": "半年", "pinyin": "bàn nián", "ru": "полгода" },
+          { "chinese": "一年", "pinyin": "yī nián", "ru": "один год" },
+          { "chinese": "两年", "pinyin": "liǎng nián", "ru": "два года" },
+          { "chinese": "三个月", "pinyin": "sān gè yuè", "ru": "три месяца" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "刚开始的时候我觉得什么很难？",
+          "pinyin": "gāng kāishǐ de shíhou wǒ juéde shénme hěn nán?",
+          "ru": "Что мне казалось трудным в начале?"
+        },
+        "options": [
+          { "chinese": "语法", "pinyin": "yǔfǎ", "ru": "грамматика" },
+          { "chinese": "汉字", "pinyin": "hànzì", "ru": "иероглифы" },
+          { "chinese": "发音", "pinyin": "fāyīn", "ru": "произношение" },
+          { "chinese": "听力", "pinyin": "tīnglì", "ru": "аудирование" }
+        ],
+        "answer": 2
+      },
+      {
+        "question": {
+          "chinese": "我每天做什么？",
+          "pinyin": "wǒ měitiān zuò shénme?",
+          "ru": "Что я делаю каждый день?"
+        },
+        "options": [
+          { "chinese": "听中文歌，看中文电影", "pinyin": "tīng zhōngwén gē, kàn zhōngwén diànyǐng", "ru": "слушаю китайские песни, смотрю китайские фильмы" },
+          { "chinese": "写汉字，背单词", "pinyin": "xiě hànzì, bèi dāncí", "ru": "пишу иероглифы, учу слова" },
+          { "chinese": "和中国朋友见面", "pinyin": "hé zhōngguó péngyou jiànmiàn", "ru": "встречаюсь с китайскими друзьями" },
+          { "chinese": "去图书馆学习", "pinyin": "qù túshūguǎn xuéxí", "ru": "хожу в библиотеку учиться" }
+        ],
+        "answer": 0
+      },
+      {
+        "question": {
+          "chinese": "中国朋友说我怎么样？",
+          "pinyin": "zhōngguó péngyou shuō wǒ zěnmeyàng?",
+          "ru": "Что говорят обо мне китайские друзья?"
+        },
+        "options": [
+          { "chinese": "进步很慢", "pinyin": "jìnbù hěn màn", "ru": "прогрессирую медленно" },
+          { "chinese": "进步很快", "pinyin": "jìnbù hěn kuài", "ru": "прогрессирую быстро" },
+          { "chinese": "发音不好", "pinyin": "fāyīn bù hǎo", "ru": "произношение плохое" },
+          { "chinese": "不努力", "pinyin": "bù nǔlì", "ru": "не стараюсь" }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "read-hsk3-1",
+    "level": "3",
+    "title": "一次难忘的旅行",
+    "title_pinyin": "yī cì nán wàng de lǚ xíng",
+    "title_ru": "Незабываемое путешествие",
+    "content": "去年暑假，我和父母一起去了云南旅行。我们先坐飞机到昆明，然后坐火车去丽江。丽江古城很漂亮，有很多古老的房子和小巷。我们在古城里住了三天，每天散步、拍照、吃当地小吃。我最喜欢的是过桥米线，味道非常鲜美。离开的时候，我很舍不得。这次旅行让我很难忘，以后我还想再来。",
+    "pinyin": "qù nián shǔ jià, wǒ hé fù mǔ yī qǐ qù le yún nán lǚ xíng. wǒ men xiān zuò fēi jī dào kūn míng, rán hòu zuò huǒ chē qù lì jiāng. lì jiāng gǔ chéng hěn piào liàng, yǒu hěn duō gǔ lǎo de fáng zi hé xiǎo xiàng. wǒ men zài gǔ chéng lǐ zhù le sān tiān, měi tiān sàn bù, pāi zhào, chī dāng dì xiǎo chī. wǒ zuì xǐ huān de shì guò qiáo mǐ xiàn, wèi dào fēi cháng xiān měi. lí kāi de shí hòu, wǒ hěn shě bù dé. zhè cì lǚ xíng ràng wǒ hěn nán wàng, yǐ hòu wǒ hái xiǎng zài lái.",
+    "translation": "Прошлым летом мы с родителями поехали в Юньнань. Сначала мы долетели до Куньмина, а потом на поезде поехали в Лицзян. Древний город Лицзян очень красив, там много старых домов и улочек. Мы жили в старом городе три дня, каждый день гуляли, фотографировали, пробовали местные закуски. Больше всего мне понравилась лапша «Гоцяо», она была необычайно вкусной. Когда уезжали, мне было жаль расставаться. Это путешествие запомнилось мне надолго, я хочу приехать сюда ещё раз.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "去年暑假我和谁一起去云南？",
+          "pinyin": "qùnián shǔjià wǒ hé shuí yīqǐ qù Yúnnán?",
+          "ru": "С кем я ездил в Юньнань прошлым летом?"
+        },
+        "options": [
+          { "chinese": "朋友", "pinyin": "péngyou", "ru": "друг" },
+          { "chinese": "父母", "pinyin": "fùmǔ", "ru": "родители" },
+          { "chinese": "同学", "pinyin": "tóngxué", "ru": "одноклассник" },
+          { "chinese": "老师", "pinyin": "lǎoshī", "ru": "учитель" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "我们先坐什么到昆明？",
+          "pinyin": "wǒmen xiān zuò shénme dào Kūnmíng?",
+          "ru": "На чём мы сначала добрались до Куньмина?"
+        },
+        "options": [
+          { "chinese": "火车", "pinyin": "huǒchē", "ru": "поезд" },
+          { "chinese": "汽车", "pinyin": "qìchē", "ru": "автомобиль" },
+          { "chinese": "飞机", "pinyin": "fēijī", "ru": "самолёт" },
+          { "chinese": "船", "pinyin": "chuán", "ru": "корабль" }
+        ],
+        "answer": 2
+      },
+      {
+        "question": {
+          "chinese": "我们在丽江住了几天？",
+          "pinyin": "wǒmen zài Lìjiāng zhù le jǐ tiān?",
+          "ru": "Сколько дней мы прожили в Лицзяне?"
+        },
+        "options": [
+          { "chinese": "两天", "pinyin": "liǎng tiān", "ru": "два дня" },
+          { "chinese": "三天", "pinyin": "sān tiān", "ru": "три дня" },
+          { "chinese": "四天", "pinyin": "sì tiān", "ru": "четыре дня" },
+          { "chinese": "五天", "pinyin": "wǔ tiān", "ru": "пять дней" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "我最喜欢吃什么？",
+          "pinyin": "wǒ zuì xǐhuān chī shénme?",
+          "ru": "Что я больше всего люблю есть?"
+        },
+        "options": [
+          { "chinese": "当地小吃", "pinyin": "dāngdì xiǎochī", "ru": "местные закуски" },
+          { "chinese": "过桥米线", "pinyin": "guòqiáo mǐxiàn", "ru": "лапша «Гоцяо»" },
+          { "chinese": "水果", "pinyin": "shuǐguǒ", "ru": "фрукты" },
+          { "chinese": "面包", "pinyin": "miànbāo", "ru": "хлеб" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "我觉得这次旅行怎么样？",
+          "pinyin": "wǒ juéde zhè cì lǚxíng zěnmeyàng?",
+          "ru": "Как я оцениваю эту поездку?"
+        },
+        "options": [
+          { "chinese": "没意思", "pinyin": "méi yìsi", "ru": "скучно" },
+          { "chinese": "很难忘", "pinyin": "hěn nánwàng", "ru": "незабываемо" },
+          { "chinese": "太累了", "pinyin": "tài lèi le", "ru": "слишком утомительно" },
+          { "chinese": "不想再来", "pinyin": "bù xiǎng zài lái", "ru": "не хочу приезжать ещё" }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "read-hsk3-2",
+    "level": "3",
+    "title": "我的新邻居",
+    "title_pinyin": "wǒ de xīn lín jū",
+    "title_ru": "Мои новые соседи",
+    "content": "上个月我家旁边搬来了一对新邻居。他们是一对年轻夫妇，男的叫张明，女的叫李丽。张明是程序员，在一家互联网公司工作。李丽是设计师，经常在家里工作。他们人都很好，刚搬来就给我们送了水果。周末我们常常在楼下聊天。现在我们已经成了好朋友。",
+    "pinyin": "shàng gè yuè wǒ jiā páng biān bān lái le yī duì xīn lín jū. tā men shì yī duì nián qīng fū fù, nán de jiào zhāng míng, nǚ de jiào lǐ lì. zhāng míng shì chéng xù yuán, zài yī jiā hù lián wǎng gōng sī gōng zuò. lǐ lì shì shè jì shī, jīng cháng zài jiā lǐ gōng zuò. tā men rén dōu hěn hǎo, gāng bān lái jiù gěi wǒ men sòng le shuǐ guǒ. zhōu mò wǒ men cháng cháng zài lóu xià liáo tiān. xiàn zài wǒ men yǐ jīng chéng le hǎo péng yǒu.",
+    "translation": "В прошлом месяце в дом рядом с нами въехали новые соседи. Это молодая пара: мужчину зовут Чжан Мин, женщину — Ли Ли. Чжан Мин — программист, работает в интернет-компании. Ли Ли — дизайнер, часто работает из дома. Они очень хорошие люди, когда только переехали, сразу принесли нам фрукты. По выходным мы часто болтаем во дворе. Теперь мы стали хорошими друзьями.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "新邻居什么时候搬来的？",
+          "pinyin": "xīn línjū shénme shíhou bān lái de?",
+          "ru": "Когда въехали новые соседи?"
+        },
+        "options": [
+          { "chinese": "上个月", "pinyin": "shàng gè yuè", "ru": "в прошлом месяце" },
+          { "chinese": "上星期", "pinyin": "shàng xīngqī", "ru": "на прошлой неделе" },
+          { "chinese": "去年", "pinyin": "qùnián", "ru": "в прошлом году" },
+          { "chinese": "前几天", "pinyin": "qián jǐ tiān", "ru": "несколько дней назад" }
+        ],
+        "answer": 0
+      },
+      {
+        "question": {
+          "chinese": "张明做什么工作？",
+          "pinyin": "Zhāng Míng zuò shénme gōngzuò?",
+          "ru": "Кем работает Чжан Мин?"
+        },
+        "options": [
+          { "chinese": "设计师", "pinyin": "shèjìshī", "ru": "дизайнер" },
+          { "chinese": "老师", "pinyin": "lǎoshī", "ru": "учитель" },
+          { "chinese": "程序员", "pinyin": "chéngxùyuán", "ru": "программист" },
+          { "chinese": "医生", "pinyin": "yīshēng", "ru": "врач" }
+        ],
+        "answer": 2
+      },
+      {
+        "question": {
+          "chinese": "李丽经常在哪里工作？",
+          "pinyin": "Lǐ Lì jīngcháng zài nǎlǐ gōngzuò?",
+          "ru": "Где часто работает Ли Ли?"
+        },
+        "options": [
+          { "chinese": "公司", "pinyin": "gōngsī", "ru": "в офисе" },
+          { "chinese": "家里", "pinyin": "jiālǐ", "ru": "дома" },
+          { "chinese": "图书馆", "pinyin": "túshūguǎn", "ru": "в библиотеке" },
+          { "chinese": "咖啡馆", "pinyin": "kāfēiguǎn", "ru": "в кафе" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "邻居刚搬来的时候做了什么？",
+          "pinyin": "línjū gāng bān lái de shíhou zuò le shénme?",
+          "ru": "Что сделали соседи, когда только въехали?"
+        },
+        "options": [
+          { "chinese": "请我们吃饭", "pinyin": "qǐng wǒmen chīfàn", "ru": "пригласили нас поесть" },
+          { "chinese": "给我们送了水果", "pinyin": "gěi wǒmen sòng le shuǐguǒ", "ru": "подарили нам фрукты" },
+          { "chinese": "帮我们搬家", "pinyin": "bāng wǒmen bānjiā", "ru": "помогли нам переехать" },
+          { "chinese": "和我们聊天", "pinyin": "hé wǒmen liáotiān", "ru": "поболтали с нами" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "我们现在和邻居的关系怎么样？",
+          "pinyin": "wǒmen xiànzài hé línjū de guānxì zěnmeyàng?",
+          "ru": "Какие у нас сейчас отношения с соседями?"
+        },
+        "options": [
+          { "chinese": "不熟", "pinyin": "bù shú", "ru": "не знакомы" },
+          { "chinese": "成了好朋友", "pinyin": "chéng le hǎo péngyou", "ru": "стали хорошими друзьями" },
+          { "chinese": "很少说话", "pinyin": "hěn shǎo shuōhuà", "ru": "редко разговариваем" },
+          { "chinese": "不喜欢他们", "pinyin": "bù xǐhuān tāmen", "ru": "не любим их" }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "read-hsk3-3",
+    "level": "3",
+    "title": "我的健康生活",
+    "title_pinyin": "wǒ de jiàn kāng shēng huó",
+    "title_ru": "Моя здоровая жизнь",
+    "content": "最近我开始注意健康了。每天早上我六点起床，然后去公园跑步。跑完步回家吃早饭，我一般吃鸡蛋、牛奶和面包。以前我常常熬夜，现在晚上十一点前一定睡觉。我觉得早睡早起对身体很好。坚持了一个月，我发现自己更有精神了。希望以后能一直这样。",
+    "pinyin": "zuì jìn wǒ kāi shǐ zhù yì jiàn kāng le. měi tiān zǎo shàng wǒ liù diǎn qǐ chuáng, rán hòu qù gōng yuán pǎo bù. pǎo wán bù huí jiā chī zǎo fàn, wǒ yì bān chī jī dàn, niú nǎi hé miàn bāo. yǐ qián wǒ cháng cháng áo yè, xiàn zài wǎn shàng shí yī diǎn qián yí dìng shuì jiào. wǒ jué de zǎo shuì zǎo qǐ duì shēn tǐ hěn hǎo. jiān chí le yī gè yuè, wǒ fā xiàn zì jǐ gèng yǒu jīng shén le. xī wàng yǐ hòu néng yī zhí zhè yàng.",
+    "translation": "В последнее время я начал обращать внимание на здоровье. Каждое утро я встаю в шесть и иду бегать в парк. После пробежки возвращаюсь домой завтракать, обычно ем яйца, пью молоко и ем хлеб. Раньше я часто засиживался допоздна, а теперь ложусь не позже одиннадцати. Я считаю, что рано ложиться и рано вставать полезно для здоровья. Продержался месяц и заметил, что стал бодрее. Надеюсь, что смогу продолжать в том же духе.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "我早上几点起床？",
+          "pinyin": "wǒ zǎoshang jǐ diǎn qǐchuáng?",
+          "ru": "Во сколько я встаю утром?"
+        },
+        "options": [
+          { "chinese": "五点", "pinyin": "wǔ diǎn", "ru": "5 часов" },
+          { "chinese": "六点", "pinyin": "liù diǎn", "ru": "6 часов" },
+          { "chinese": "七点", "pinyin": "qī diǎn", "ru": "7 часов" },
+          { "chinese": "八点", "pinyin": "bā diǎn", "ru": "8 часов" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "起床后我去做什么？",
+          "pinyin": "qǐchuáng hòu wǒ qù zuò shénme?",
+          "ru": "Что я делаю после подъёма?"
+        },
+        "options": [
+          { "chinese": "吃早饭", "pinyin": "chī zǎofàn", "ru": "завтракаю" },
+          { "chinese": "跑步", "pinyin": "pǎobù", "ru": "бегаю" },
+          { "chinese": "睡觉", "pinyin": "shuìjiào", "ru": "сплю" },
+          { "chinese": "看书", "pinyin": "kàn shū", "ru": "читаю книгу" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "早饭我一般吃什么？",
+          "pinyin": "zǎofàn wǒ yībān chī shénme?",
+          "ru": "Что я обычно ем на завтрак?"
+        },
+        "options": [
+          { "chinese": "鸡蛋、牛奶和面包", "pinyin": "jīdàn, niúnǎi hé miànbāo", "ru": "яйца, молоко и хлеб" },
+          { "chinese": "米饭和菜", "pinyin": "mǐfàn hé cài", "ru": "рис и овощи" },
+          { "chinese": "面条", "pinyin": "miàntiáo", "ru": "лапша" },
+          { "chinese": "饺子", "pinyin": "jiǎozi", "ru": "пельмени" }
+        ],
+        "answer": 0
+      },
+      {
+        "question": {
+          "chinese": "以前我常常做什么？",
+          "pinyin": "yǐqián wǒ chángcháng zuò shénme?",
+          "ru": "Что я часто делал раньше?"
+        },
+        "options": [
+          { "chinese": "早睡早起", "pinyin": "zǎo shuì zǎo qǐ", "ru": "рано ложился и рано вставал" },
+          { "chinese": "熬夜", "pinyin": "áoyè", "ru": "засиживался допоздна" },
+          { "chinese": "跑步", "pinyin": "pǎobù", "ru": "бегал" },
+          { "chinese": "吃很多", "pinyin": "chī hěn duō", "ru": "много ел" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "坚持了一个月后，我感觉怎么样？",
+          "pinyin": "jiānchí le yī gè yuè hòu, wǒ gǎnjué zěnmeyàng?",
+          "ru": "Как я себя почувствовал после месяца занятий?"
+        },
+        "options": [
+          { "chinese": "更累了", "pinyin": "gèng lèi le", "ru": "ещё больше устал" },
+          { "chinese": "更有精神", "pinyin": "gèng yǒu jīngshen", "ru": "более бодрым" },
+          { "chinese": "没变化", "pinyin": "méi biànhuà", "ru": "без изменений" },
+          { "chinese": "生病了", "pinyin": "shēngbìng le", "ru": "заболел" }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "read-hsk4-1",
+    "level": "4",
+    "title": "选择职业的困惑",
+    "title_pinyin": "xuǎn zé zhí yè de kùn huò",
+    "title_ru": "Сомнения в выборе профессии",
+    "content": "我大学快毕业了，最近一直在思考未来的职业方向。父母希望我找一份稳定的工作，比如当老师或者进银行。但是我个人对互联网行业更感兴趣，觉得那里机会多，发展快。我和几个在互联网公司工作的学长聊过，他们都说工作虽然累，但是能学到很多东西。我担心如果选择互联网，父母会失望。可是如果选择稳定工作，我又怕自己将来会后悔。这几天我一直在纠结，不知道该怎么办。也许我应该和他们好好谈一谈，听听他们的想法，同时也表达自己的意见。希望最后能找到一个大家都满意的选择。",
+    "pinyin": "wǒ dà xué kuài bì yè le, zuì jìn yì zhí zài sī kǎo wèi lái de zhí yè fāng xiàng. fù mǔ xī wàng wǒ zhǎo yī fèn wěn dìng de gōng zuò, bǐ rú dāng lǎo shī huò zhě jìn yín háng. dàn shì wǒ gè rén duì hù lián wǎng háng yè gèng gǎn xìng qù, jué de nà lǐ jī huì duō, fā zhǎn kuài. wǒ hé jǐ gè zài hù lián wǎng gōng sī gōng zuò de xué zhǎng liáo guò, tā men dōu shuō gōng zuò suī rán lèi, dàn shì néng xué dào hěn duō dōng xi. wǒ dān xīn rú guǒ xuǎn zé hù lián wǎng, fù mǔ huì shī wàng. kě shì rú guǒ xuǎn zé wěn dìng gōng zuò, wǒ yòu pà zì jǐ jiāng lái huì hòu huǐ. zhè jǐ tiān wǒ yì zhí zài jiū jié, bù zhī dào gāi zěn me bàn. yě xǔ wǒ yīng gāi hé tā men hǎo hǎo tán yī tán, tīng tīng tā men de xiǎng fǎ, tóng shí yě biǎo dá zì jǐ de yì jiàn. xī wàng zuì hòu néng zhǎo dào yī gè dà jiā dōu mǎn yì de xuǎn zé.",
+    "translation": "Я скоро заканчиваю университет и в последнее время всё время думаю о будущем профессиональном пути. Родители хотят, чтобы я нашёл стабильную работу, например, учителя или в банке. Но мне самому интереснее интернет-индустрия, там, кажется, больше возможностей и быстрое развитие. Я разговаривал с несколькими старшекурсниками, которые работают в интернет-компаниях, они говорят, что работа хоть и утомительная, но можно многому научиться. Я переживаю, что если выберу интернет, родители расстроятся. А если выберу стабильную работу, боюсь, потом буду жалеть. Последние дни я в раздумьях, не знаю, как поступить. Может, мне стоит поговорить с ними по душам, выслушать их мнение и высказать своё. Надеюсь, в итоге мы найдём решение, которое устроит всех.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "父母希望我找什么样的工作？",
+          "pinyin": "fùmǔ xīwàng wǒ zhǎo shénmeyàng de gōngzuò?",
+          "ru": "Какую работу родители хотят, чтобы я нашёл?"
+        },
+        "options": [
+          { "chinese": "高薪的工作", "pinyin": "gāoxīn de gōngzuò", "ru": "высокооплачиваемую работу" },
+          { "chinese": "稳定的工作", "pinyin": "wěndìng de gōngzuò", "ru": "стабильную работу" },
+          { "chinese": "有趣的工作", "pinyin": "yǒuqù de gōngzuò", "ru": "интересную работу" },
+          { "chinese": "轻松的工作", "pinyin": "qīngsōng de gōngzuò", "ru": "лёгкую работу" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "我对什么行业更感兴趣？",
+          "pinyin": "wǒ duì shénme hángyè gèng gǎn xìngqù?",
+          "ru": "К какой сфере я испытываю больший интерес?"
+        },
+        "options": [
+          { "chinese": "教育行业", "pinyin": "jiàoyù hángyè", "ru": "образование" },
+          { "chinese": "金融行业", "pinyin": "jīnróng hángyè", "ru": "финансы" },
+          { "chinese": "互联网行业", "pinyin": "hùliánwǎng hángyè", "ru": "интернет-индустрия" },
+          { "chinese": "医疗行业", "pinyin": "yīliáo hángyè", "ru": "медицина" }
+        ],
+        "answer": 2
+      },
+      {
+        "question": {
+          "chinese": "在互联网公司工作的学长怎么说？",
+          "pinyin": "zài hùliánwǎng gōngsī gōngzuò de xuézhǎng zěnme shuō?",
+          "ru": "Что говорят старшекурсники, работающие в интернет-компаниях?"
+        },
+        "options": [
+          { "chinese": "工作轻松，钱多", "pinyin": "gōngzuò qīngsōng, qián duō", "ru": "работа лёгкая, денег много" },
+          { "chinese": "工作累，但能学到很多东西", "pinyin": "gōngzuò lèi, dàn néng xué dào hěnduō dōngxi", "ru": "работа утомительная, но можно многому научиться" },
+          { "chinese": "工作无聊，没前途", "pinyin": "gōngzuò wúliáo, méi qiántú", "ru": "работа скучная, бесперспективная" },
+          { "chinese": "工作稳定，压力小", "pinyin": "gōngzuò wěndìng, yālì xiǎo", "ru": "работа стабильная, давление маленькое" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "我担心什么？",
+          "pinyin": "wǒ dānxīn shénme?",
+          "ru": "Чего я опасаюсь?"
+        },
+        "options": [
+          { "chinese": "找不到工作", "pinyin": "zhǎo bù dào gōngzuò", "ru": "не найти работу" },
+          { "chinese": "父母失望", "pinyin": "fùmǔ shīwàng", "ru": "родители разочаруются" },
+          { "chinese": "身体受不了", "pinyin": "shēntǐ shòu bù liǎo", "ru": "организм не выдержит" },
+          { "chinese": "工资太低", "pinyin": "gōngzī tài dī", "ru": "зарплата слишком низкая" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "我打算怎么办？",
+          "pinyin": "wǒ dǎsuàn zěnme bàn?",
+          "ru": "Что я планирую делать?"
+        },
+        "options": [
+          { "chinese": "直接去互联网公司", "pinyin": "zhíjiē qù hùliánwǎng gōngsī", "ru": "сразу пойти в интернет-компанию" },
+          { "chinese": "听父母的话", "pinyin": "tīng fùmǔ de huà", "ru": "послушать родителей" },
+          { "chinese": "和他们好好谈谈", "pinyin": "hé tāmen hǎohǎo tán tan", "ru": "хорошо с ними поговорить" },
+          { "chinese": "再等等看", "pinyin": "zài děng děng kàn", "ru": "подождать и посмотреть" }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "read-hsk4-2",
+    "level": "4",
+    "title": "手机依赖症",
+    "title_pinyin": "shǒu jī yī lài zhèng",
+    "title_ru": "Зависимость от телефона",
+    "content": "现在很多人都离不开手机，我也一样。每天早上醒来第一件事就是看手机，刷朋友圈、看新闻。吃饭的时候也喜欢边吃边看视频。有时候和朋友在一起，大家也都低头玩手机，很少聊天。前几天我看了一篇文章，说过度使用手机会影响健康和人际关系。我这才意识到自己也成了“低头族”。于是我决定改掉这个习惯。现在我会把手机放在一边，专心做自己的事情，多和家人朋友面对面交流。刚开始有点不习惯，但慢慢发现这样生活更充实了。",
+    "pinyin": "xiàn zài hěn duō rén dōu lí bù kāi shǒu jī, wǒ yě yī yàng. měi tiān zǎo shàng xǐng lái dì yī jiàn shì jiù shì kàn shǒu jī, shuā péng yǒu quān, kàn xīn wén. chī fàn de shí hòu yě xǐ huān biān chī biān kàn shì pín. yǒu shí hòu hé péng yǒu zài yī qǐ, dà jiā yě dōu dī tóu wán shǒu jī, hěn shǎo liáo tiān. qián jǐ tiān wǒ kàn le yī piān wén zhāng, shuō guò dù shǐ yòng shǒu jī huì yǐng xiǎng jiàn kāng hé rén jì guān xì. wǒ zhè cái yì shí dào zì jǐ yě chéng le “dī tóu zú”. yú shì wǒ jué dìng gǎi diào zhè ge xí guàn. xiàn zài wǒ huì bǎ shǒu jī fàng zài yī biān, zhuān xīn zuò zì jǐ de shì qíng, duō hé jiā rén péng yǒu miàn duì miàn jiāo liú. gāng kāi shǐ yǒu diǎn bù xí guàn, dàn màn màn fā xiàn zhè yàng shēng huó gèng chōng shí le.",
+    "translation": "Сейчас многие не могут жить без телефона, и я тоже. Каждое утро, просыпаясь, первым делом беру телефон, смотрю ленту друзей, читаю новости. Во время еды тоже люблю есть и смотреть видео. Иногда, когда мы с друзьями вместе, все сидят, уткнувшись в телефоны, и почти не общаются. Несколько дней назад я прочитал статью о том, что чрезмерное использование телефона вредит здоровью и отношениям с людьми. Тогда я осознал, что тоже стал «опустившим голову». И я решил избавиться от этой привычки. Теперь я откладываю телефон в сторону, сосредоточиваюсь на своих делах, чаще общаюсь с семьёй и друзьями вживую. Поначалу было непривычно, но постепенно я понял, что жизнь стала более насыщенной.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "每天早上醒来我第一件事是什么？",
+          "pinyin": "měitiān zǎoshang xǐnglái wǒ dì yī jiàn shì shì shénme?",
+          "ru": "Что я делаю первым делом каждое утро после пробуждения?"
+        },
+        "options": [
+          { "chinese": "刷牙洗脸", "pinyin": "shuāyá xǐliǎn", "ru": "чистить зубы и умываться" },
+          { "chinese": "吃早饭", "pinyin": "chī zǎofàn", "ru": "завтракать" },
+          { "chinese": "看手机", "pinyin": "kàn shǒujī", "ru": "смотреть телефон" },
+          { "chinese": "跑步", "pinyin": "pǎobù", "ru": "бегать" }
+        ],
+        "answer": 2
+      },
+      {
+        "question": {
+          "chinese": "吃饭的时候我喜欢做什么？",
+          "pinyin": "chīfàn de shíhou wǒ xǐhuān zuò shénme?",
+          "ru": "Что я люблю делать во время еды?"
+        },
+        "options": [
+          { "chinese": "看书", "pinyin": "kàn shū", "ru": "читать книгу" },
+          { "chinese": "聊天", "pinyin": "liáotiān", "ru": "болтать" },
+          { "chinese": "边吃边看视频", "pinyin": "biān chī biān kàn shìpín", "ru": "есть и смотреть видео" },
+          { "chinese": "听音乐", "pinyin": "tīng yīnyuè", "ru": "слушать музыку" }
+        ],
+        "answer": 2
+      },
+      {
+        "question": {
+          "chinese": "和朋友在一起时大家常常做什么？",
+          "pinyin": "hé péngyou zài yīqǐ shí dàjiā chángcháng zuò shénme?",
+          "ru": "Что часто делают все, когда мы вместе с друзьями?"
+        },
+        "options": [
+          { "chinese": "聊天", "pinyin": "liáotiān", "ru": "болтают" },
+          { "chinese": "玩游戏", "pinyin": "wán yóuxì", "ru": "играют в игры" },
+          { "chinese": "低头玩手机", "pinyin": "dītóu wán shǒujī", "ru": "сидят в телефонах" },
+          { "chinese": "吃饭", "pinyin": "chīfàn", "ru": "едят" }
+        ],
+        "answer": 2
+      },
+      {
+        "question": {
+          "chinese": "我看了一篇文章后意识到了什么？",
+          "pinyin": "wǒ kàn le yī piān wénzhāng hòu yìshí dào le shénme?",
+          "ru": "Что я осознал после прочтения статьи?"
+        },
+        "options": [
+          { "chinese": "手机很好玩", "pinyin": "shǒujī hěn hǎowán", "ru": "телефон очень интересный" },
+          { "chinese": "我也成了低头族", "pinyin": "wǒ yě chéng le dītóuzú", "ru": "я тоже стал «опустившим голову»" },
+          { "chinese": "手机很贵", "pinyin": "shǒujī hěn guì", "ru": "телефон дорогой" },
+          { "chinese": "应该买新手机", "pinyin": "yīnggāi mǎi xīn shǒujī", "ru": "нужно купить новый телефон" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "现在我决定怎么做？",
+          "pinyin": "xiànzài wǒ juédìng zěnme zuò?",
+          "ru": "Что я решил делать теперь?"
+        },
+        "options": [
+          { "chinese": "不用手机了", "pinyin": "bù yòng shǒujī le", "ru": "не пользоваться телефоном" },
+          { "chinese": "把手机放一边，多面对面交流", "pinyin": "bǎ shǒujī fàng yībiān, duō miànduìmiàn jiāoliú", "ru": "откладывать телефон в сторону, больше общаться лично" },
+          { "chinese": "只看新闻", "pinyin": "zhǐ kàn xīnwén", "ru": "только читать новости" },
+          { "chinese": "少吃饭多玩手机", "pinyin": "shǎo chīfàn duō wán shǒujī", "ru": "меньше есть, больше играть в телефон" }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "read-hsk4-3",
+    "level": "4",
+    "title": "学做中国菜",
+    "title_pinyin": "xué zuò zhōng guó cài",
+    "title_ru": "Учусь готовить китайские блюда",
+    "content": "来中国留学以后，我最喜欢的就是中国菜。刚开始我只会去餐馆吃，后来想自己学着做。我买了几本菜谱，还上网看视频。第一次尝试做西红柿炒鸡蛋，虽然卖相不太好，但是味道还不错。后来我又学了麻婆豆腐和鱼香肉丝。每次做好后我都会拍照发给妈妈看，她夸我有进步。做菜不仅让我吃饱，还让我更了解中国文化。现在我每周都会做一两次，请中国朋友来尝。他们给我提建议，我也越来越熟练了。以后回国，我想给家人露一手。",
+    "pinyin": "lái zhōng guó liú xué yǐ hòu, wǒ zuì xǐ huān de jiù shì zhōng guó cài. gāng kāi shǐ wǒ zhǐ huì qù cān guǎn chī, hòu lái xiǎng zì jǐ xué zhe zuò. wǒ mǎi le jǐ běn cài pǔ, hái shàng wǎng kàn shì pín. dì yī cì cháng shì zuò xī hóng shì chǎo jī dàn, suī rán mài xiàng bù tài hǎo, dàn shì wèi dào hái bù cuò. hòu lái wǒ yòu xué le má pó dòu fǔ hé yú xiāng ròu sī. měi cì zuò hǎo hòu wǒ dū huì pāi zhào fā gěi mā mā kàn, tā kuā wǒ yǒu jìn bù. zuò cài bù jǐn ràng wǒ chī bǎo, hái ràng wǒ gèng liǎo jiě zhōng guó wén huà. xiàn zài wǒ měi zhōu dū huì zuò yī liǎng cì, qǐng zhōng guó péng yǒu lái cháng. tā men gěi wǒ tí jiàn yì, wǒ yě yuè lái yuè shú liàn le. yǐ hòu huí guó, wǒ xiǎng gěi jiā rén lòu yī shǒu.",
+    "translation": "После того как я приехал учиться в Китай, китайская кухня стала моей любимой. Сначала я только ходил в рестораны, а потом захотел научиться готовить сам. Я купил несколько кулинарных книг и смотрел видео в интернете. В первый раз попробовал приготовить помидоры с яйцом: хотя выглядело не очень, но на вкус было неплохо. Потом я освоил «ма по тофу» и «свинину по-сычуаньски». Каждый раз, когда готовил, фотографировал и отправлял маме, она говорила, что я делаю успехи. Готовка не только насыщает меня, но и помогает лучше понять китайскую культуру. Теперь я готовлю раз-два в неделю и приглашаю китайских друзей попробовать. Они дают советы, и у меня получается всё лучше. Когда вернусь домой, хочу удивить семью своим мастерством.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "来中国留学后我最喜欢什么？",
+          "pinyin": "lái Zhōngguó liúxué hòu wǒ zuì xǐhuān shénme?",
+          "ru": "Что мне больше всего нравится после приезда на учёбу в Китай?"
+        },
+        "options": [
+          { "chinese": "中国风景", "pinyin": "Zhōngguó fēngjǐng", "ru": "китайские пейзажи" },
+          { "chinese": "中国菜", "pinyin": "Zhōngguó cài", "ru": "китайская еда" },
+          { "chinese": "中国朋友", "pinyin": "Zhōngguó péngyou", "ru": "китайские друзья" },
+          { "chinese": "中国文化", "pinyin": "Zhōngguó wénhuà", "ru": "китайская культура" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "我第一次尝试做什么菜？",
+          "pinyin": "wǒ dì yī cì chángshì zuò shénme cài?",
+          "ru": "Какое блюдо я попробовал приготовить в первый раз?"
+        },
+        "options": [
+          { "chinese": "麻婆豆腐", "pinyin": "mápó dòufu", "ru": "мапо тофу" },
+          { "chinese": "鱼香肉丝", "pinyin": "yúxiāng ròusī", "ru": "свинина по-сычуаньски" },
+          { "chinese": "西红柿炒鸡蛋", "pinyin": "xīhóngshì chǎo jīdàn", "ru": "помидоры с яйцом" },
+          { "chinese": "饺子", "pinyin": "jiǎozi", "ru": "пельмени" }
+        ],
+        "answer": 2
+      },
+      {
+        "question": {
+          "chinese": "第一次做的菜怎么样？",
+          "pinyin": "dì yī cì zuò de cài zěnmeyàng?",
+          "ru": "Каким получилось первое блюдо?"
+        },
+        "options": [
+          { "chinese": "卖相很好，味道一般", "pinyin": "màixiàng hěn hǎo, wèidào yībān", "ru": "выглядело хорошо, на вкус так себе" },
+          { "chinese": "卖相不太好，味道还不错", "pinyin": "màixiàng bù tài hǎo, wèidào hái bùcuò", "ru": "выглядело не очень, но на вкус неплохо" },
+          { "chinese": "很难吃", "pinyin": "hěn nán chī", "ru": "очень невкусно" },
+          { "chinese": "完全失败了", "pinyin": "wánquán shībài le", "ru": "полностью провалилось" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "每次做好菜后我做什么？",
+          "pinyin": "měi cì zuò hǎo cài hòu wǒ zuò shénme?",
+          "ru": "Что я делаю каждый раз после приготовления?"
+        },
+        "options": [
+          { "chinese": "自己吃掉", "pinyin": "zìjǐ chī diào", "ru": "сам съедаю" },
+          { "chinese": "拍照发给妈妈", "pinyin": "pāizhào fā gěi māma", "ru": "фотографирую и отправляю маме" },
+          { "chinese": "倒掉", "pinyin": "dào diào", "ru": "выбрасываю" },
+          { "chinese": "送给邻居", "pinyin": "sòng gěi línjū", "ru": "дарю соседям" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "现在每周做几次菜？",
+          "pinyin": "xiànzài měi zhōu zuò jǐ cì cài?",
+          "ru": "Сколько раз в неделю я теперь готовлю?"
+        },
+        "options": [
+          { "chinese": "每天做", "pinyin": "měitiān zuò", "ru": "каждый день" },
+          { "chinese": "一两次", "pinyin": "yī liǎng cì", "ru": "один-два раза" },
+          { "chinese": "三四次", "pinyin": "sān sì cì", "ru": "три-четыре раза" },
+          { "chinese": "不做", "pinyin": "bù zuò", "ru": "не готовлю" }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "read-hsk5-1",
+    "level": "5",
+    "title": "城市生活的压力",
+    "title_pinyin": "chéng shì shēng huó de yā lì",
+    "title_ru": "Давление городской жизни",
+    "content": "随着城市化的发展，越来越多的人选择在城市生活。城市生活有很多优点，比如交通方便，工作机会多，教育资源丰富。但是，城市生活也有缺点，比如房价高，空气污染严重，生活节奏快。我觉得，选择城市还是乡村，要看个人的需求和喜好。",
+    "pinyin": "suí zhe chéng shì huà de fā zhǎn, yuè lái yuè duō de rén xuǎn zé zài chéng shì shēng huó. chéng shì shēng huó yǒu hěn duō yōu diǎn, bǐ rú jiāo tōng fāng biàn, gōng zuò jī huì duō, jiào yù zī yuán fēng fù. dàn shì, chéng shì shēng huó yě yǒu quē diǎn, bǐ rú fáng jià gāo, kōng qì wū rǎn yán zhòng, shēng huó jié zòu kuài. wǒ jué de, xuǎn zé chéng shì hái shì xiāng cūn, yào kàn gè rén de xū qiú hé xǐ hào.",
+    "translation": "С развитием урбанизации всё больше людей выбирают жизнь в городе. У городской жизни много преимуществ, например, удобный транспорт, много возможностей для работы, богатые образовательные ресурсы. Но у городской жизни есть и недостатки: высокие цены на жильё, серьёзное загрязнение воздуха, быстрый темп жизни. Я считаю, что выбор города или деревни зависит от личных потребностей и предпочтений.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "城市生活有哪些优点？",
+          "pinyin": "chéngshì shēnghuó yǒu nǎxiē yōudiǎn?",
+          "ru": "Какие преимущества у городской жизни?"
+        },
+        "options": [
+          { "chinese": "房价高，空气好", "pinyin": "fángjià gāo, kōngqì hǎo", "ru": "высокие цены на жильё, хороший воздух" },
+          { "chinese": "交通方便，工作机会多", "pinyin": "jiāotōng fāngbiàn, gōngzuò jīhuì duō", "ru": "удобный транспорт, много возможностей для работы" },
+          { "chinese": "生活节奏慢，环境好", "pinyin": "shēnghuó jiézòu màn, huánjìng hǎo", "ru": "медленный темп жизни, хорошая экология" },
+          { "chinese": "人口少，安静", "pinyin": "rénkǒu shǎo, ānjìng", "ru": "мало людей, тихо" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "城市生活有哪些缺点？",
+          "pinyin": "chéngshì shēnghuó yǒu nǎxiē quēdiǎn?",
+          "ru": "Какие недостатки у городской жизни?"
+        },
+        "options": [
+          { "chinese": "教育资源少", "pinyin": "jiàoyù zīyuán shǎo", "ru": "мало образовательных ресурсов" },
+          { "chinese": "工作机会少", "pinyin": "gōngzuò jīhuì shǎo", "ru": "мало возможностей для работы" },
+          { "chinese": "房价高，空气污染严重", "pinyin": "fángjià gāo, kōngqì wūrǎn yánzhòng", "ru": "высокие цены на жильё, серьёзное загрязнение воздуха" },
+          { "chinese": "交通不方便", "pinyin": "jiāotōng bù fāngbiàn", "ru": "транспорт неудобный" }
+        ],
+        "answer": 2
+      },
+      {
+        "question": {
+          "chinese": "作者认为选择城市还是乡村应该看什么？",
+          "pinyin": "zuòzhě rènwéi xuǎnzé chéngshì háishì xiāngcūn yīnggāi kàn shénme?",
+          "ru": "Что, по мнению автора, нужно учитывать при выборе между городом и деревней?"
+        },
+        "options": [
+          { "chinese": "收入", "pinyin": "shōurù", "ru": "доход" },
+          { "chinese": "家庭", "pinyin": "jiātíng", "ru": "семья" },
+          { "chinese": "个人的需求和喜好", "pinyin": "gèrén de xūqiú hé xǐhào", "ru": "личные потребности и предпочтения" },
+          { "chinese": "朋友的意见", "pinyin": "péngyou de yìjiàn", "ru": "мнение друзей" }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "read-hsk5-2",
+    "level": "5",
+    "title": "移动支付的普及",
+    "title_pinyin": "yí dòng zhī fù de pǔ jí",
+    "title_ru": "Популярность мобильных платежей",
+    "content": "在中国，移动支付非常普及。人们出门只需要带手机，就可以买东西、坐车、交水电费。微信支付和支付宝是最常用的两种方式。移动支付很方便，但也有人担心安全问题。不过，随着技术的发展，支付系统越来越安全。",
+    "pinyin": "zài zhōng guó, yí dòng zhī fù fēi cháng pǔ jí. rén men chū mén zhǐ xū yào dài shǒu jī, jiù kě yǐ mǎi dōng xi, zuò chē, jiāo shuǐ diàn fèi. wēi xìn zhī fù hé zhī fù bǎo shì zuì cháng yòng de liǎng zhǒng fāng shì. yí dòng zhī fù hěn fāng biàn, dàn yě yǒu rén dān xīn ān quán wèn tí. bù guò, suí zhe jì shù de fā zhǎn, zhī fù xì tǒng yuè lái yuè ān quán.",
+    "translation": "В Китае мобильные платежи очень популярны. Людям достаточно взять с собой телефон, чтобы купить товары, оплатить проезд, коммунальные услуги. WeChat Pay и Alipay — два самых распространённых способа. Мобильные платежи очень удобны, но некоторые беспокоятся о безопасности. Однако с развитием технологий платёжные системы становятся всё безопаснее.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "在中国，移动支付怎么样？",
+          "pinyin": "zài Zhōngguó, yídòng zhīfù zěnmeyàng?",
+          "ru": "Как обстоят дела с мобильными платежами в Китае?"
+        },
+        "options": [
+          { "chinese": "不普及", "pinyin": "bù pǔjí", "ru": "непопулярны" },
+          { "chinese": "非常普及", "pinyin": "fēicháng pǔjí", "ru": "очень популярны" },
+          { "chinese": "很少用", "pinyin": "hěn shǎo yòng", "ru": "редко используются" },
+          { "chinese": "只有年轻人用", "pinyin": "zhǐyǒu niánqīngrén yòng", "ru": "используются только молодыми" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "人们出门只需要带什么？",
+          "pinyin": "rénmen chūmén zhǐ xūyào dài shénme?",
+          "ru": "Что людям достаточно взять с собой, выходя из дома?"
+        },
+        "options": [
+          { "chinese": "钱包", "pinyin": "qiánbāo", "ru": "бумажник" },
+          { "chinese": "银行卡", "pinyin": "yínhángkǎ", "ru": "банковская карта" },
+          { "chinese": "手机", "pinyin": "shǒujī", "ru": "телефон" },
+          { "chinese": "钥匙", "pinyin": "yàoshi", "ru": "ключи" }
+        ],
+        "answer": 2
+      },
+      {
+        "question": {
+          "chinese": "最常用的两种移动支付方式是什么？",
+          "pinyin": "zuì chángyòng de liǎng zhǒng yídòng zhīfù fāngshì shì shénme?",
+          "ru": "Какие два способа мобильных платежей самые распространённые?"
+        },
+        "options": [
+          { "chinese": "微信支付和支付宝", "pinyin": "Wēixìn zhīfù hé Zhīfùbǎo", "ru": "WeChat Pay и Alipay" },
+          { "chinese": "Apple Pay和支付宝", "pinyin": "Apple Pay hé Zhīfùbǎo", "ru": "Apple Pay и Alipay" },
+          { "chinese": "现金和银行卡", "pinyin": "xiànjīn hé yínhángkǎ", "ru": "наличные и банковская карта" },
+          { "chinese": "信用卡和微信支付", "pinyin": "xìnyòngkǎ hé Wēixìn zhīfù", "ru": "кредитная карта и WeChat Pay" }
+        ],
+        "answer": 0
+      },
+      {
+        "question": {
+          "chinese": "有人担心什么问题？",
+          "pinyin": "yǒu rén dānxīn shénme wèntí?",
+          "ru": "Что беспокоит некоторых людей?"
+        },
+        "options": [
+          { "chinese": "手机没电", "pinyin": "shǒujī méi diàn", "ru": "телефон разрядится" },
+          { "chinese": "网速慢", "pinyin": "wǎngsù màn", "ru": "медленный интернет" },
+          { "chinese": "安全问题", "pinyin": "ānquán wèntí", "ru": "проблемы безопасности" },
+          { "chinese": "不会用", "pinyin": "bù huì yòng", "ru": "не умеют пользоваться" }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "read-hsk5-3",
+    "level": "5",
+    "title": "环境保护",
+    "title_pinyin": "huán jìng bǎo hù",
+    "title_ru": "Защита окружающей среды",
+    "content": "最近上海开始实行严格的垃圾分类。每个家庭都要把垃圾分成四类：可回收物、有害垃圾、湿垃圾和干垃圾。一开始大家觉得麻烦，经常分错。但是现在很多人已经习惯了，觉得这样做对环境有好处。",
+    "pinyin": "zuì jìn shàng hǎi kāi shǐ shí xíng yán gé de lā jī fēn lèi. měi gè jiā tíng dū yào bǎ lā jī fēn chéng sì lèi: kě huí shōu wù, yǒu hài lā jī, shī lā jī hé gān lā jī. yī kāi shǐ dà jiā jué de má fan, jīng cháng fēn cuò. dàn shì xiàn zài hěn duō rén yǐ jīng xí guàn le, jué de zhè yàng zuò duì huán jìng yǒu hǎo chù.",
+    "translation": "Недавно в Шанхае ввели строгую сортировку мусора. Каждая семья должна разделять мусор на четыре категории: перерабатываемый, опасный, влажный и сухой. Сначала всем казалось это хлопотным, часто ошибались. Но теперь многие привыкли и считают, что это полезно для окружающей среды.",
+    "questions": [
+      {
+        "question": {
+          "chinese": "上海开始实行什么？",
+          "pinyin": "Shànghǎi kāishǐ shíxíng shénme?",
+          "ru": "Что начали внедрять в Шанхае?"
+        },
+        "options": [
+          { "chinese": "垃圾分类", "pinyin": "lājī fēnlèi", "ru": "сортировка мусора" },
+          { "chinese": "限行", "pinyin": "xiànxíng", "ru": "ограничение движения" },
+          { "chinese": "禁烟", "pinyin": "jìnyān", "ru": "запрет на курение" },
+          { "chinese": "限塑", "pinyin": "xiànsù", "ru": "ограничение на пластик" }
+        ],
+        "answer": 0
+      },
+      {
+        "question": {
+          "chinese": "垃圾分成几类？",
+          "pinyin": "lājī fēnchéng jǐ lèi?",
+          "ru": "На сколько категорий разделяют мусор?"
+        },
+        "options": [
+          { "chinese": "两类", "pinyin": "liǎng lèi", "ru": "две" },
+          { "chinese": "三类", "pinyin": "sān lèi", "ru": "три" },
+          { "chinese": "四类", "pinyin": "sì lèi", "ru": "четыре" },
+          { "chinese": "五类", "pinyin": "wǔ lèi", "ru": "пять" }
+        ],
+        "answer": 2
+      },
+      {
+        "question": {
+          "chinese": "一开始大家觉得怎么样？",
+          "pinyin": "yī kāishǐ dàjiā juéde zěnmeyàng?",
+          "ru": "Что думали все поначалу?"
+        },
+        "options": [
+          { "chinese": "很方便", "pinyin": "hěn fāngbiàn", "ru": "очень удобно" },
+          { "chinese": "很麻烦", "pinyin": "hěn máfan", "ru": "очень хлопотно" },
+          { "chinese": "很有趣", "pinyin": "hěn yǒuqù", "ru": "очень интересно" },
+          { "chinese": "没必要", "pinyin": "méi bìyào", "ru": "не нужно" }
+        ],
+        "answer": 1
+      },
+      {
+        "question": {
+          "chinese": "现在很多人觉得这样做怎么样？",
+          "pinyin": "xiànzài hěnduō rén juéde zhèyàng zuò zěnmeyàng?",
+          "ru": "Что думают об этом многие сейчас?"
+        },
+        "options": [
+          { "chinese": "对环境有好处", "pinyin": "duì huánjìng yǒu hǎochù", "ru": "полезно для окружающей среды" },
+          { "chinese": "太复杂", "pinyin": "tài fùzá", "ru": "слишком сложно" },
+          { "chinese": "浪费时间", "pinyin": "làngfèi shíjiān", "ru": "пустая трата времени" },
+          { "chinese": "没变化", "pinyin": "méi biànhuà", "ru": "без изменений" }
+        ],
+        "answer": 0
+      }
+    ]
+  }
+]

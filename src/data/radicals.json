@@ -1,0 +1,1778 @@
+[
+  {
+    "id": 1,
+    "character": "一",
+    "pinyin": "yī",
+    "meaning": "один",
+    "examples": ["七", "三", "不", "世"],
+    "strokes": 1
+  },
+  {
+    "id": 2,
+    "character": "丨",
+    "pinyin": "gǔn",
+    "meaning": "вертикальная черта",
+    "examples": ["中", "丫", "丰", "丯"],
+    "strokes": 1
+  },
+  {
+    "id": 3,
+    "character": "丶",
+    "pinyin": "zhǔ",
+    "meaning": "точка",
+    "examples": ["之", "为", "丸", "為"],
+    "strokes": 1
+  },
+  {
+    "id": 4,
+    "character": "丿",
+    "pinyin": "piě",
+    "meaning": "откидная влево",
+    "examples": ["久", "乎", "么", "𠂔"],
+    "strokes": 1
+  },
+  {
+    "id": 5,
+    "character": "乙",
+    "pinyin": "yǐ",
+    "meaning": "второй (знак десятеричного цикла)",
+    "examples": ["九", "也", "民", "㐋"],
+    "strokes": 1,
+    "variant": "乚, 乛, 𠃊, 𠃋, 𠃍, 𠃌, ⺄, 𠃑"
+  },
+  {
+    "id": 6,
+    "character": "亅",
+    "pinyin": "jué",
+    "meaning": "крюк",
+    "examples": ["了", "事", "亊", "予"],
+    "strokes": 1
+  },
+  {
+    "id": 7,
+    "character": "二",
+    "pinyin": "èr",
+    "meaning": "два",
+    "examples": ["五", "井", "些", "亞"],
+    "strokes": 2
+  },
+  {
+    "id": 8,
+    "character": "亠",
+    "pinyin": "tóu",
+    "meaning": "верхушка",
+    "examples": ["亡", "交", "京", "亰"],
+    "strokes": 2
+  },
+  {
+    "id": 9,
+    "character": "人",
+    "pinyin": "rén",
+    "meaning": "мужчина, человек",
+    "examples": ["个", "从", "众", "㐺"],
+    "strokes": 2,
+    "variant": "亻"
+  },
+  {
+    "id": 10,
+    "character": "儿",
+    "pinyin": "ér",
+    "meaning": "ноги, ребёнок",
+    "examples": ["兄", "元", "允", "𠒇"],
+    "strokes": 2
+  },
+  {
+    "id": 11,
+    "character": "入",
+    "pinyin": "rù",
+    "meaning": "входить",
+    "examples": ["內", "全", "兩", "𠓾"],
+    "strokes": 2
+  },
+  {
+    "id": 12,
+    "character": "八",
+    "pinyin": "bā",
+    "meaning": "восемь",
+    "examples": ["公", "六", "共", "兵"],
+    "strokes": 2
+  },
+  {
+    "id": 13,
+    "character": "冂",
+    "pinyin": "jiōng",
+    "meaning": "граница, пустынные земли",
+    "examples": ["內", "内", "冇", "再"],
+    "strokes": 2,
+    "variant": "⺆"
+  },
+  {
+    "id": 14,
+    "character": "冖",
+    "pinyin": "mì",
+    "meaning": "крышка",
+    "examples": ["冗", "冠", "軍", "㓀"],
+    "strokes": 2
+  },
+  {
+    "id": 15,
+    "character": "冫",
+    "pinyin": "bīng",
+    "meaning": "лёд",
+    "examples": ["冬", "冶", "冷", "凍"],
+    "strokes": 2,
+    "variant": "⺀"
+  },
+  {
+    "id": 16,
+    "character": "几",
+    "pinyin": "jǐ",
+    "meaning": "столик",
+    "examples": ["凡", "凢", "凣", "凥"],
+    "strokes": 2
+  },
+  {
+    "id": 17,
+    "character": "凵",
+    "pinyin": "kǎn",
+    "meaning": "открытый рот, вместилище",
+    "examples": ["凶", "凷", "凼", "函"],
+    "strokes": 2
+  },
+  {
+    "id": 18,
+    "character": "刀",
+    "pinyin": "dāo",
+    "meaning": "нож",
+    "examples": ["分", "切", "利", "則"],
+    "strokes": 2,
+    "variant": "刂, ⺈"
+  },
+  {
+    "id": 19,
+    "character": "力",
+    "pinyin": "lì",
+    "meaning": "сила",
+    "examples": ["加", "助", "勉", "劦"],
+    "strokes": 2
+  },
+  {
+    "id": 20,
+    "character": "勹",
+    "pinyin": "bāo",
+    "meaning": "обёртывать, охватывать",
+    "examples": ["勾", "包", "勿", "匁"],
+    "strokes": 2
+  },
+  {
+    "id": 21,
+    "character": "匕",
+    "pinyin": "bǐ",
+    "meaning": "ложка, кинжал",
+    "examples": ["化", "北", "匙", "𠤎"],
+    "strokes": 2
+  },
+  {
+    "id": 22,
+    "character": "匚",
+    "pinyin": "fāng",
+    "meaning": "ящик",
+    "examples": ["匣", "匠", "匡", "匞"],
+    "strokes": 2
+  },
+  {
+    "id": 23,
+    "character": "匸",
+    "pinyin": "xì",
+    "meaning": "прятать, укрывать",
+    "examples": ["匹", "区", "醫", "匼"],
+    "strokes": 2
+  },
+  {
+    "id": 24,
+    "character": "十",
+    "pinyin": "shí",
+    "meaning": "десять",
+    "examples": ["午", "半", "博", "協"],
+    "strokes": 2
+  },
+  {
+    "id": 25,
+    "character": "卜",
+    "pinyin": "bǔ",
+    "meaning": "гадать",
+    "examples": ["占", "卦", "卞", "卟"],
+    "strokes": 2,
+    "variant": "⺊"
+  },
+  {
+    "id": 26,
+    "character": "卩",
+    "pinyin": "jié",
+    "meaning": "печать",
+    "examples": ["印", "危", "卵", "卪"],
+    "strokes": 2,
+    "variant": "㔾"
+  },
+  {
+    "id": 27,
+    "character": "厂",
+    "pinyin": "hǎn",
+    "meaning": "обрыв, утёс",
+    "examples": ["原", "厚", "壓", "仄"],
+    "strokes": 2
+  },
+  {
+    "id": 28,
+    "character": "厶",
+    "pinyin": "sī",
+    "meaning": "частный, личный",
+    "examples": ["去", "參", "私", "厹"],
+    "strokes": 2
+  },
+  {
+    "id": 29,
+    "character": "又",
+    "pinyin": "yòu",
+    "meaning": "правая рука, снова",
+    "examples": ["友", "反", "取", "受"],
+    "strokes": 2
+  },
+  {
+    "id": 30,
+    "character": "口",
+    "pinyin": "kǒu",
+    "meaning": "рот",
+    "examples": ["古", "可", "名", "君"],
+    "strokes": 3
+  },
+  {
+    "id": 31,
+    "character": "囗",
+    "pinyin": "wéi",
+    "meaning": "ограда, граница",
+    "examples": ["四", "回", "國", "圖"],
+    "strokes": 3
+  },
+  {
+    "id": 32,
+    "character": "土",
+    "pinyin": "tǔ",
+    "meaning": "земля",
+    "examples": ["地", "在", "城", "場"],
+    "strokes": 3
+  },
+  {
+    "id": 33,
+    "character": "士",
+    "pinyin": "shì",
+    "meaning": "учёный, воин",
+    "examples": ["壯", "壹", "壱", "志"],
+    "strokes": 3
+  },
+  {
+    "id": 34,
+    "character": "夂",
+    "pinyin": "zhǐ",
+    "meaning": "идти, следовать",
+    "examples": ["處", "夅", "备", "夆"],
+    "strokes": 3
+  },
+  {
+    "id": 35,
+    "character": "夊",
+    "pinyin": "suī",
+    "meaning": "медленно идти",
+    "examples": ["夏", "夋", "夊", "㕢"],
+    "strokes": 3
+  },
+  {
+    "id": 36,
+    "character": "夕",
+    "pinyin": "xī",
+    "meaning": "вечер",
+    "examples": ["外", "多", "夜", "夢"],
+    "strokes": 3
+  },
+  {
+    "id": 37,
+    "character": "大",
+    "pinyin": "dà",
+    "meaning": "большой",
+    "examples": ["天", "太", "奇", "奧"],
+    "strokes": 3,
+    "variant": "亣"
+  },
+  {
+    "id": 38,
+    "character": "女",
+    "pinyin": "nǚ",
+    "meaning": "женщина",
+    "examples": ["好", "姓", "妻", "婦"],
+    "strokes": 3
+  },
+  {
+    "id": 39,
+    "character": "子",
+    "pinyin": "zǐ",
+    "meaning": "сын, семя",
+    "examples": ["孔", "字", "學", "孫"],
+    "strokes": 3
+  },
+  {
+    "id": 40,
+    "character": "宀",
+    "pinyin": "mián",
+    "meaning": "крыша",
+    "examples": ["家", "宅", "安", "定"],
+    "strokes": 3
+  },
+  {
+    "id": 41,
+    "character": "寸",
+    "pinyin": "cùn",
+    "meaning": "вершок, дюйм",
+    "examples": ["寺", "尊", "對", "射"],
+    "strokes": 3
+  },
+  {
+    "id": 42,
+    "character": "小",
+    "pinyin": "xiǎo",
+    "meaning": "маленький",
+    "examples": ["少", "尖", "尚", "𡭔"],
+    "strokes": 3,
+    "variant": "⺌, ⺍"
+  },
+  {
+    "id": 43,
+    "character": "尢",
+    "pinyin": "wāng",
+    "meaning": "хромой",
+    "examples": ["尪", "尬", "尷", "就"],
+    "strokes": 3,
+    "variant": "尣, 𡯂"
+  },
+  {
+    "id": 44,
+    "character": "尸",
+    "pinyin": "shī",
+    "meaning": "труп, туловище",
+    "examples": ["尺", "局", "居", "展"],
+    "strokes": 3
+  },
+  {
+    "id": 45,
+    "character": "屮",
+    "pinyin": "chè",
+    "meaning": "росток",
+    "examples": ["屯", "艸", "艻", "芔"],
+    "strokes": 3
+  },
+  {
+    "id": 46,
+    "character": "山",
+    "pinyin": "shān",
+    "meaning": "гора",
+    "examples": ["岩", "島", "岳", "峰"],
+    "strokes": 3
+  },
+  {
+    "id": 47,
+    "character": "巛",
+    "pinyin": "chuān",
+    "meaning": "река, поток",
+    "examples": ["州", "巡", "災", "巢"],
+    "strokes": 3,
+    "variant": "川, 巜"
+  },
+  {
+    "id": 48,
+    "character": "工",
+    "pinyin": "gōng",
+    "meaning": "работа, труд",
+    "examples": ["左", "巧", "巨", "巫"],
+    "strokes": 3
+  },
+  {
+    "id": 49,
+    "character": "己",
+    "pinyin": "jǐ",
+    "meaning": "сам, свой",
+    "examples": ["已", "巳", "导", "異"],
+    "strokes": 3,
+    "variant": "巳, 已"
+  },
+  {
+    "id": 50,
+    "character": "巾",
+    "pinyin": "jīn",
+    "meaning": "платок, шарф",
+    "examples": ["布", "市", "帝", "常"],
+    "strokes": 3
+  },
+  {
+    "id": 51,
+    "character": "干",
+    "pinyin": "gān",
+    "meaning": "сухой, щит",
+    "examples": ["平", "年", "刊", "幹"],
+    "strokes": 3
+  },
+  {
+    "id": 52,
+    "character": "幺",
+    "pinyin": "yāo",
+    "meaning": "короткий, крохотный",
+    "examples": ["幻", "幼", "幽", "茲"],
+    "strokes": 3
+  },
+  {
+    "id": 53,
+    "character": "广",
+    "pinyin": "yǎn",
+    "meaning": "навес, убежище",
+    "examples": ["店", "府", "庭", "廳"],
+    "strokes": 3
+  },
+  {
+    "id": 54,
+    "character": "廴",
+    "pinyin": "yǐn",
+    "meaning": "тянуть, шагать",
+    "examples": ["延", "建", "廷", "廻"],
+    "strokes": 3
+  },
+  {
+    "id": 55,
+    "character": "廾",
+    "pinyin": "gǒng",
+    "meaning": "сложенные руки, двадцать",
+    "examples": ["弁", "弄", "弈", "弊"],
+    "strokes": 3
+  },
+  {
+    "id": 56,
+    "character": "弋",
+    "pinyin": "yì",
+    "meaning": "стрелять, охотиться",
+    "examples": ["式", "弒", "弌", "忒"],
+    "strokes": 3
+  },
+  {
+    "id": 57,
+    "character": "弓",
+    "pinyin": "gōng",
+    "meaning": "лук",
+    "examples": ["引", "張", "強", "弱"],
+    "strokes": 3
+  },
+  {
+    "id": 58,
+    "character": "彐",
+    "pinyin": "jì",
+    "meaning": "рыло, голова свиньи",
+    "examples": ["當", "錄", "彖", "彗"],
+    "strokes": 3,
+    "variant": "彑, ⺕"
+  },
+  {
+    "id": 59,
+    "character": "彡",
+    "pinyin": "shān",
+    "meaning": "перо, волосы, борода",
+    "examples": ["形", "彩", "彫", "彰"],
+    "strokes": 3
+  },
+  {
+    "id": 60,
+    "character": "彳",
+    "pinyin": "chì",
+    "meaning": "шаг левой ногой, ходьба",
+    "examples": ["役", "往", "後", "得"],
+    "strokes": 3
+  },
+  {
+    "id": 61,
+    "character": "心",
+    "pinyin": "xīn",
+    "meaning": "сердце",
+    "examples": ["必", "忍", "思", "情"],
+    "strokes": 4,
+    "variant": "忄, ⺗, 㣺"
+  },
+  {
+    "id": 62,
+    "character": "戈",
+    "pinyin": "gē",
+    "meaning": "копьё, алебарда",
+    "examples": ["成", "我", "戰", "或"],
+    "strokes": 4
+  },
+  {
+    "id": 63,
+    "character": "戶",
+    "pinyin": "hù",
+    "meaning": "дверь, дом",
+    "examples": ["所", "扇", "扉", "房"],
+    "strokes": 4,
+    "variant": "户, 戸"
+  },
+  {
+    "id": 64,
+    "character": "手",
+    "pinyin": "shǒu",
+    "meaning": "рука",
+    "examples": ["打", "持", "拜", "拳"],
+    "strokes": 4,
+    "variant": "扌, 龵"
+  },
+  {
+    "id": 65,
+    "character": "支",
+    "pinyin": "zhī",
+    "meaning": "ветвь, поддерживать",
+    "examples": ["攱", "攲", "翅", "鼓"],
+    "strokes": 4
+  },
+  {
+    "id": 66,
+    "character": "攴",
+    "pinyin": "pū",
+    "meaning": "ударять, бить",
+    "examples": ["收", "改", "救", "數"],
+    "strokes": 4,
+    "variant": "攵"
+  },
+  {
+    "id": 67,
+    "character": "文",
+    "pinyin": "wén",
+    "meaning": "письменность, культура",
+    "examples": ["齊", "斌", "斐", "斑"],
+    "strokes": 4
+  },
+  {
+    "id": 68,
+    "character": "斗",
+    "pinyin": "dǒu",
+    "meaning": "черпак, ковш",
+    "examples": ["料", "斡", "斛", "斟"],
+    "strokes": 4
+  },
+  {
+    "id": 69,
+    "character": "斤",
+    "pinyin": "jīn",
+    "meaning": "топор",
+    "examples": ["新", "斷", "斥", "斧"],
+    "strokes": 4
+  },
+  {
+    "id": 70,
+    "character": "方",
+    "pinyin": "fāng",
+    "meaning": "сторона, квадрат",
+    "examples": ["放", "旅", "族", "旗"],
+    "strokes": 4
+  },
+  {
+    "id": 71,
+    "character": "无",
+    "pinyin": "wú",
+    "meaning": "нет, отсутствие",
+    "examples": ["既", "旣", "旡"],
+    "strokes": 4
+  },
+  {
+    "id": 72,
+    "character": "日",
+    "pinyin": "rì",
+    "meaning": "солнце, день",
+    "examples": ["明", "時", "晚", "曜"],
+    "strokes": 4
+  },
+  {
+    "id": 73,
+    "character": "曰",
+    "pinyin": "yuē",
+    "meaning": "говорить, называть",
+    "examples": ["書", "曾", "最", "會"],
+    "strokes": 4
+  },
+  {
+    "id": 74,
+    "character": "月",
+    "pinyin": "yuè",
+    "meaning": "луна, месяц",
+    "examples": ["有", "期", "朝", "朗"],
+    "strokes": 4
+  },
+  {
+    "id": 75,
+    "character": "木",
+    "pinyin": "mù",
+    "meaning": "дерево",
+    "examples": ["林", "森", "板", "相"],
+    "strokes": 4
+  },
+  {
+    "id": 76,
+    "character": "欠",
+    "pinyin": "qiàn",
+    "meaning": "недоставать, зевать",
+    "examples": ["次", "歡", "欲", "歌"],
+    "strokes": 4
+  },
+  {
+    "id": 77,
+    "character": "止",
+    "pinyin": "zhǐ",
+    "meaning": "останавливаться",
+    "examples": ["步", "武", "歲", "歷"],
+    "strokes": 4
+  },
+  {
+    "id": 78,
+    "character": "歹",
+    "pinyin": "dǎi",
+    "meaning": "плохой, смерть",
+    "examples": ["死", "列", "殁", "殘"],
+    "strokes": 4,
+    "variant": "歺"
+  },
+  {
+    "id": 79,
+    "character": "殳",
+    "pinyin": "shū",
+    "meaning": "оружие, пика",
+    "examples": ["殺", "段", "毀", "殷"],
+    "strokes": 4
+  },
+  {
+    "id": 80,
+    "character": "毋",
+    "pinyin": "wú",
+    "meaning": "не, нельзя; мать",
+    "examples": ["母", "每", "毒", "毓"],
+    "strokes": 4,
+    "variant": "母, ⺟"
+  },
+  {
+    "id": 81,
+    "character": "比",
+    "pinyin": "bǐ",
+    "meaning": "сравнивать, соревноваться",
+    "examples": ["皆", "批", "畢", "毖"],
+    "strokes": 4
+  },
+  {
+    "id": 82,
+    "character": "毛",
+    "pinyin": "máo",
+    "meaning": "шерсть, волосы",
+    "examples": ["毫", "毯", "氈", "耗"],
+    "strokes": 4
+  },
+  {
+    "id": 83,
+    "character": "氏",
+    "pinyin": "shì",
+    "meaning": "род, фамилия",
+    "examples": ["民", "紙", "婚", "氓"],
+    "strokes": 4
+  },
+  {
+    "id": 84,
+    "character": "气",
+    "pinyin": "qì",
+    "meaning": "пар, воздух, дух",
+    "examples": ["氣", "氧", "氫", "氦"],
+    "strokes": 4
+  },
+  {
+    "id": 85,
+    "character": "水",
+    "pinyin": "shuǐ",
+    "meaning": "вода",
+    "examples": ["江", "河", "海", "流"],
+    "strokes": 4,
+    "variant": "氵, 氺"
+  },
+  {
+    "id": 86,
+    "character": "火",
+    "pinyin": "huǒ",
+    "meaning": "огонь",
+    "examples": ["灯", "焼", "熱", "燃"],
+    "strokes": 4,
+    "variant": "灬"
+  },
+  {
+    "id": 87,
+    "character": "爪",
+    "pinyin": "zhuǎ",
+    "meaning": "коготь",
+    "examples": ["爬", "爭", "爰", "爲"],
+    "strokes": 4,
+    "variant": "爫"
+  },
+  {
+    "id": 88,
+    "character": "父",
+    "pinyin": "fù",
+    "meaning": "отец",
+    "examples": ["爺", "爹", "爸", "釜"],
+    "strokes": 4
+  },
+  {
+    "id": 89,
+    "character": "爻",
+    "pinyin": "yáo",
+    "meaning": "черты триграммы, смешивать",
+    "examples": ["爽", "爾", "爼", "𤕦"],
+    "strokes": 4
+  },
+  {
+    "id": 90,
+    "character": "爿",
+    "pinyin": "pán",
+    "meaning": "доска, колода",
+    "examples": ["牀", "牆", "奘", "牃"],
+    "strokes": 4
+  },
+  {
+    "id": 91,
+    "character": "片",
+    "pinyin": "piàn",
+    "meaning": "щепка, ломтик",
+    "examples": ["版", "牌", "牒", "牋"],
+    "strokes": 4
+  },
+  {
+    "id": 92,
+    "character": "牙",
+    "pinyin": "yá",
+    "meaning": "клык, зуб",
+    "examples": ["芽", "穿", "雅", "鴉"],
+    "strokes": 4
+  },
+  {
+    "id": 93,
+    "character": "牛",
+    "pinyin": "niú",
+    "meaning": "корова",
+    "examples": ["牧", "物", "特", "犧"],
+    "strokes": 4,
+    "variant": "牜"
+  },
+  {
+    "id": 94,
+    "character": "犬",
+    "pinyin": "quǎn",
+    "meaning": "собака",
+    "examples": ["狗", "狂", "犯", "獸"],
+    "strokes": 4,
+    "variant": "犭"
+  },
+  {
+    "id": 95,
+    "character": "玄",
+    "pinyin": "xuán",
+    "meaning": "тёмный, глубокий",
+    "examples": ["玆", "率", "絃", "玈"],
+    "strokes": 5
+  },
+  {
+    "id": 96,
+    "character": "玉",
+    "pinyin": "yù",
+    "meaning": "нефрит, драгоценный камень",
+    "examples": ["王", "珠", "寶", "璧"],
+    "strokes": 5,
+    "variant": "王 (в составе иероглифа)"
+  },
+  {
+    "id": 97,
+    "character": "瓜",
+    "pinyin": "guā",
+    "meaning": "тыква, дыня",
+    "examples": ["瓢", "瓣", "瓠", "瓞"],
+    "strokes": 5
+  },
+  {
+    "id": 98,
+    "character": "瓦",
+    "pinyin": "wǎ",
+    "meaning": "черепица",
+    "examples": ["瓶", "瓷", "甁", "甌"],
+    "strokes": 5
+  },
+  {
+    "id": 99,
+    "character": "甘",
+    "pinyin": "gān",
+    "meaning": "сладкий",
+    "examples": ["甜", "甚", "甛", "酣"],
+    "strokes": 5
+  },
+  {
+    "id": 100,
+    "character": "生",
+    "pinyin": "shēng",
+    "meaning": "жизнь, рождаться",
+    "examples": ["産", "牲", "甦", "甥"],
+    "strokes": 5
+  },
+  {
+    "id": 101,
+    "character": "用",
+    "pinyin": "yòng",
+    "meaning": "использовать",
+    "examples": ["甫", "甬", "甯", "庸"],
+    "strokes": 5
+  },
+  {
+    "id": 102,
+    "character": "田",
+    "pinyin": "tián",
+    "meaning": "поле",
+    "examples": ["男", "町", "界", "略"],
+    "strokes": 5
+  },
+  {
+    "id": 103,
+    "character": "疋",
+    "pinyin": "pǐ",
+    "meaning": "рулон ткани, нога",
+    "examples": ["疏", "楚", "胥", "疑"],
+    "strokes": 5,
+    "variant": "⺪"
+  },
+  {
+    "id": 104,
+    "character": "疒",
+    "pinyin": "chuáng",
+    "meaning": "болезнь",
+    "examples": ["病", "痛", "疲", "療"],
+    "strokes": 5
+  },
+  {
+    "id": 105,
+    "character": "癶",
+    "pinyin": "bō",
+    "meaning": "шатёр, расставленные ноги",
+    "examples": ["登", "發", "癷", "癸"],
+    "strokes": 5
+  },
+  {
+    "id": 106,
+    "character": "白",
+    "pinyin": "bái",
+    "meaning": "белый",
+    "examples": ["的", "皆", "皇", "皓"],
+    "strokes": 5
+  },
+  {
+    "id": 107,
+    "character": "皮",
+    "pinyin": "pí",
+    "meaning": "кожа",
+    "examples": ["皴", "皸", "皺", "皹"],
+    "strokes": 5
+  },
+  {
+    "id": 108,
+    "character": "皿",
+    "pinyin": "mǐn",
+    "meaning": "посуда, сосуд",
+    "examples": ["皿", "盂", "盆", "盛"],
+    "strokes": 5
+  },
+  {
+    "id": 109,
+    "character": "目",
+    "pinyin": "mù",
+    "meaning": "глаз",
+    "examples": ["見", "眠", "眼", "睡"],
+    "strokes": 5
+  },
+  {
+    "id": 110,
+    "character": "矛",
+    "pinyin": "máo",
+    "meaning": "копьё",
+    "examples": ["柔", "矜", "矞", "矠"],
+    "strokes": 5
+  },
+  {
+    "id": 111,
+    "character": "矢",
+    "pinyin": "shǐ",
+    "meaning": "стрела",
+    "examples": ["知", "短", "矮", "矯"],
+    "strokes": 5
+  },
+  {
+    "id": 112,
+    "character": "石",
+    "pinyin": "shí",
+    "meaning": "камень",
+    "examples": ["岩", "砂", "破", "碑"],
+    "strokes": 5
+  },
+  {
+    "id": 113,
+    "character": "示",
+    "pinyin": "shì",
+    "meaning": "знак, показывать, дух",
+    "examples": ["禮", "社", "祈", "福"],
+    "strokes": 5,
+    "variant": "礻"
+  },
+  {
+    "id": 114,
+    "character": "禸",
+    "pinyin": "róu",
+    "meaning": "след, топтать",
+    "examples": ["禹", "禺", "禽", "离"],
+    "strokes": 5
+  },
+  {
+    "id": 115,
+    "character": "禾",
+    "pinyin": "hé",
+    "meaning": "зерно, хлеб",
+    "examples": ["利", "私", "秋", "種"],
+    "strokes": 5
+  },
+  {
+    "id": 116,
+    "character": "穴",
+    "pinyin": "xué",
+    "meaning": "пещера, нора",
+    "examples": ["空", "究", "窓", "窟"],
+    "strokes": 5
+  },
+  {
+    "id": 117,
+    "character": "立",
+    "pinyin": "lì",
+    "meaning": "стоять",
+    "examples": ["站", "章", "端", "競"],
+    "strokes": 5
+  },
+  {
+    "id": 118,
+    "character": "竹",
+    "pinyin": "zhú",
+    "meaning": "бамбук",
+    "examples": ["笑", "筆", "笛", "第"],
+    "strokes": 6,
+    "variant": "⺮"
+  },
+  {
+    "id": 119,
+    "character": "米",
+    "pinyin": "mǐ",
+    "meaning": "рис",
+    "examples": ["料", "粉", "粒", "粥"],
+    "strokes": 6
+  },
+  {
+    "id": 120,
+    "character": "糸",
+    "pinyin": "mì",
+    "meaning": "нить, шёлк",
+    "examples": ["紅", "紙", "級", "經"],
+    "strokes": 6,
+    "variant": "糹, 纟"
+  },
+  {
+    "id": 121,
+    "character": "缶",
+    "pinyin": "fǒu",
+    "meaning": "кувшин, глина",
+    "examples": ["罐", "缺", "罅", "罄"],
+    "strokes": 6
+  },
+  {
+    "id": 122,
+    "character": "网",
+    "pinyin": "wǎng",
+    "meaning": "сеть",
+    "examples": ["罪", "置", "羅", "罟"],
+    "strokes": 6,
+    "variant": "罒, ⺲, 罓"
+  },
+  {
+    "id": 123,
+    "character": "羊",
+    "pinyin": "yáng",
+    "meaning": "овца, баран",
+    "examples": ["美", "群", "洋", "樣"],
+    "strokes": 6,
+    "variant": "⺶, ⺷"
+  },
+  {
+    "id": 124,
+    "character": "羽",
+    "pinyin": "yǔ",
+    "meaning": "перо",
+    "examples": ["習", "翔", "翼", "耀"],
+    "strokes": 6
+  },
+  {
+    "id": 125,
+    "character": "老",
+    "pinyin": "lǎo",
+    "meaning": "старый",
+    "examples": ["考", "者", "耆", "耄"],
+    "strokes": 6,
+    "variant": "耂"
+  },
+  {
+    "id": 126,
+    "character": "而",
+    "pinyin": "ér",
+    "meaning": "и, но; усы",
+    "examples": ["耐", "耍", "耎", "耏"],
+    "strokes": 6
+  },
+  {
+    "id": 127,
+    "character": "耒",
+    "pinyin": "lěi",
+    "meaning": "плуг",
+    "examples": ["耕", "耗", "耘", "耙"],
+    "strokes": 6
+  },
+  {
+    "id": 128,
+    "character": "耳",
+    "pinyin": "ěr",
+    "meaning": "ухо",
+    "examples": ["聞", "聴", "職", "聖"],
+    "strokes": 6
+  },
+  {
+    "id": 129,
+    "character": "聿",
+    "pinyin": "yù",
+    "meaning": "кисть для письма",
+    "examples": ["書", "畫", "筆", "肆"],
+    "strokes": 6,
+    "variant": "⺻"
+  },
+  {
+    "id": 130,
+    "character": "肉",
+    "pinyin": "ròu",
+    "meaning": "мясо",
+    "examples": ["肉", "肌", "胃", "腸"],
+    "strokes": 6,
+    "variant": "⺼"
+  },
+  {
+    "id": 131,
+    "character": "臣",
+    "pinyin": "chén",
+    "meaning": "министр, слуга",
+    "examples": ["臥", "臨", "臧", "監"],
+    "strokes": 6
+  },
+  {
+    "id": 132,
+    "character": "自",
+    "pinyin": "zì",
+    "meaning": "сам, себя",
+    "examples": ["自", "臭", "鼻", "息"],
+    "strokes": 6
+  },
+  {
+    "id": 133,
+    "character": "至",
+    "pinyin": "zhì",
+    "meaning": "достигать, до",
+    "examples": ["到", "致", "臻", "臺"],
+    "strokes": 6
+  },
+  {
+    "id": 134,
+    "character": "臼",
+    "pinyin": "jiù",
+    "meaning": "ступа",
+    "examples": ["舂", "舅", "舀", "舊"],
+    "strokes": 6
+  },
+  {
+    "id": 135,
+    "character": "舌",
+    "pinyin": "shé",
+    "meaning": "язык",
+    "examples": ["舍", "舐", "舒", "舔"],
+    "strokes": 6
+  },
+  {
+    "id": 136,
+    "character": "舛",
+    "pinyin": "chuǎn",
+    "meaning": "противоречить, ошибаться",
+    "examples": ["舜", "舞", "舝", "䑞"],
+    "strokes": 6
+  },
+  {
+    "id": 137,
+    "character": "舟",
+    "pinyin": "zhōu",
+    "meaning": "лодка",
+    "examples": ["船", "航", "艦", "般"],
+    "strokes": 6
+  },
+  {
+    "id": 138,
+    "character": "艮",
+    "pinyin": "gèn",
+    "meaning": "твердый, упрямый; граница",
+    "examples": ["良", "艱", "限", "垠"],
+    "strokes": 6
+  },
+  {
+    "id": 139,
+    "character": "色",
+    "pinyin": "sè",
+    "meaning": "цвет",
+    "examples": ["色", "艶", "艷", "𦫢"],
+    "strokes": 6
+  },
+  {
+    "id": 140,
+    "character": "艸",
+    "pinyin": "cǎo",
+    "meaning": "трава",
+    "examples": ["草", "花", "英", "茶"],
+    "strokes": 6,
+    "variant": "艹, ⺿"
+  },
+  {
+    "id": 141,
+    "character": "虍",
+    "pinyin": "hǔ",
+    "meaning": "тигр",
+    "examples": ["虎", "虐", "虛", "虜"],
+    "strokes": 6
+  },
+  {
+    "id": 142,
+    "character": "虫",
+    "pinyin": "huǐ",
+    "meaning": "змея, насекомое",
+    "examples": ["蛇", "蛙", "蜂", "蝶"],
+    "strokes": 6
+  },
+  {
+    "id": 143,
+    "character": "血",
+    "pinyin": "xuè",
+    "meaning": "кровь",
+    "examples": ["血", "衆", "衁", "衃"],
+    "strokes": 6
+  },
+  {
+    "id": 144,
+    "character": "行",
+    "pinyin": "xíng",
+    "meaning": "идти, путь",
+    "examples": ["行", "街", "衛", "術"],
+    "strokes": 6
+  },
+  {
+    "id": 145,
+    "character": "衣",
+    "pinyin": "yī",
+    "meaning": "одежда",
+    "examples": ["衣", "衫", "被", "裕"],
+    "strokes": 6,
+    "variant": "衤"
+  },
+  {
+    "id": 146,
+    "character": "西",
+    "pinyin": "xī",
+    "meaning": "запад",
+    "examples": ["西", "要", "覆", "覀"],
+    "strokes": 6,
+    "variant": "襾, 覀"
+  },
+  {
+    "id": 147,
+    "character": "見",
+    "pinyin": "jiàn",
+    "meaning": "видеть",
+    "examples": ["見", "視", "觀", "覺"],
+    "strokes": 7,
+    "variant": "见"
+  },
+  {
+    "id": 148,
+    "character": "角",
+    "pinyin": "jiǎo",
+    "meaning": "рог, угол",
+    "examples": ["角", "解", "觸", "觴"],
+    "strokes": 7
+  },
+  {
+    "id": 149,
+    "character": "言",
+    "pinyin": "yán",
+    "meaning": "речь, говорить",
+    "examples": ["言", "語", "説", "話"],
+    "strokes": 7,
+    "variant": "訁, 讠"
+  },
+  {
+    "id": 150,
+    "character": "谷",
+    "pinyin": "gǔ",
+    "meaning": "долина",
+    "examples": ["谷", "欲", "容", "裕"],
+    "strokes": 7
+  },
+  {
+    "id": 151,
+    "character": "豆",
+    "pinyin": "dòu",
+    "meaning": "боб, сосуд",
+    "examples": ["豆", "頭", "豐", "豉"],
+    "strokes": 7
+  },
+  {
+    "id": 152,
+    "character": "豕",
+    "pinyin": "shǐ",
+    "meaning": "свинья",
+    "examples": ["豕", "豚", "象", "豪"],
+    "strokes": 7
+  },
+  {
+    "id": 153,
+    "character": "豸",
+    "pinyin": "zhì",
+    "meaning": "барсук, насекомое",
+    "examples": ["豸", "豹", "貌", "貓"],
+    "strokes": 7
+  },
+  {
+    "id": 154,
+    "character": "貝",
+    "pinyin": "bèi",
+    "meaning": "раковина, деньги",
+    "examples": ["貝", "財", "買", "賣"],
+    "strokes": 7,
+    "variant": "贝"
+  },
+  {
+    "id": 155,
+    "character": "赤",
+    "pinyin": "chì",
+    "meaning": "красный",
+    "examples": ["赤", "赫", "赦", "赧"],
+    "strokes": 7
+  },
+  {
+    "id": 156,
+    "character": "走",
+    "pinyin": "zǒu",
+    "meaning": "бежать, идти",
+    "examples": ["走", "起", "超", "越"],
+    "strokes": 7
+  },
+  {
+    "id": 157,
+    "character": "足",
+    "pinyin": "zú",
+    "meaning": "нога, ступня",
+    "examples": ["足", "路", "踢", "跳"],
+    "strokes": 7,
+    "variant": "⻊"
+  },
+  {
+    "id": 158,
+    "character": "身",
+    "pinyin": "shēn",
+    "meaning": "тело",
+    "examples": ["身", "軀", "躲", "躺"],
+    "strokes": 7
+  },
+  {
+    "id": 159,
+    "character": "車",
+    "pinyin": "chē",
+    "meaning": "повозка, машина",
+    "examples": ["車", "軍", "輕", "較"],
+    "strokes": 7,
+    "variant": "车"
+  },
+  {
+    "id": 160,
+    "character": "辛",
+    "pinyin": "xīn",
+    "meaning": "горький, трудный",
+    "examples": ["辛", "辞", "辣", "辨"],
+    "strokes": 7
+  },
+  {
+    "id": 161,
+    "character": "辰",
+    "pinyin": "chén",
+    "meaning": "время, день",
+    "examples": ["辰", "辱", "農", "晨"],
+    "strokes": 7
+  },
+  {
+    "id": 162,
+    "character": "辵",
+    "pinyin": "chuò",
+    "meaning": "идти, шагать",
+    "examples": ["巡", "迎", "近", "送"],
+    "strokes": 7,
+    "variant": "辶, ⻌, ⻍"
+  },
+  {
+    "id": 163,
+    "character": "邑",
+    "pinyin": "yì",
+    "meaning": "город, поселение",
+    "examples": ["邑", "都", "部", "鄉"],
+    "strokes": 7,
+    "variant": "⻏ (справа)"
+  },
+  {
+    "id": 164,
+    "character": "酉",
+    "pinyin": "yǒu",
+    "meaning": "вино, чаша",
+    "examples": ["酉", "酒", "醉", "酸"],
+    "strokes": 7
+  },
+  {
+    "id": 165,
+    "character": "釆",
+    "pinyin": "biàn",
+    "meaning": "отличать, разделять",
+    "examples": ["釆", "番", "釋", "悉"],
+    "strokes": 7
+  },
+  {
+    "id": 166,
+    "character": "里",
+    "pinyin": "lǐ",
+    "meaning": "деревня, верста",
+    "examples": ["里", "重", "野", "量"],
+    "strokes": 7
+  },
+  {
+    "id": 167,
+    "character": "金",
+    "pinyin": "jīn",
+    "meaning": "металл, золото",
+    "examples": ["金", "銀", "銅", "鐵"],
+    "strokes": 8,
+    "variant": "釒, 钅"
+  },
+  {
+    "id": 168,
+    "character": "長",
+    "pinyin": "cháng",
+    "meaning": "длинный",
+    "examples": ["長", "張", "髪", "髮"],
+    "strokes": 8,
+    "variant": "长, ⻑"
+  },
+  {
+    "id": 169,
+    "character": "門",
+    "pinyin": "mén",
+    "meaning": "ворота, дверь",
+    "examples": ["門", "開", "閉", "間"],
+    "strokes": 8,
+    "variant": "门"
+  },
+  {
+    "id": 170,
+    "character": "阜",
+    "pinyin": "fù",
+    "meaning": "холм, насыпь",
+    "examples": ["阜", "隊", "陽", "陰"],
+    "strokes": 8,
+    "variant": "⻖ (слева)"
+  },
+  {
+    "id": 171,
+    "character": "隶",
+    "pinyin": "lì",
+    "meaning": "ловить, раб",
+    "examples": ["隶", "隸", "逮", "肄"],
+    "strokes": 8
+  },
+  {
+    "id": 172,
+    "character": "隹",
+    "pinyin": "zhuī",
+    "meaning": "птица",
+    "examples": ["隹", "雀", "集", "雜"],
+    "strokes": 8
+  },
+  {
+    "id": 173,
+    "character": "雨",
+    "pinyin": "yǔ",
+    "meaning": "дождь",
+    "examples": ["雨", "雪", "雲", "電"],
+    "strokes": 8
+  },
+  {
+    "id": 174,
+    "character": "青",
+    "pinyin": "qīng",
+    "meaning": "сине-зеленый",
+    "examples": ["青", "靜", "靚", "靛"],
+    "strokes": 8,
+    "variant": "靑"
+  },
+  {
+    "id": 175,
+    "character": "非",
+    "pinyin": "fēi",
+    "meaning": "не, неправильно",
+    "examples": ["非", "靠", "靡", "靟"],
+    "strokes": 8
+  },
+  {
+    "id": 176,
+    "character": "面",
+    "pinyin": "miàn",
+    "meaning": "лицо, поверхность",
+    "examples": ["面", "靣", "靦", "靧"],
+    "strokes": 9
+  },
+  {
+    "id": 177,
+    "character": "革",
+    "pinyin": "gé",
+    "meaning": "кожа, изменять",
+    "examples": ["革", "靴", "鞍", "鞭"],
+    "strokes": 9
+  },
+  {
+    "id": 178,
+    "character": "韋",
+    "pinyin": "wéi",
+    "meaning": "дублёная кожа",
+    "examples": ["韋", "韌", "韓", "韙"],
+    "strokes": 9,
+    "variant": "韦"
+  },
+  {
+    "id": 179,
+    "character": "韭",
+    "pinyin": "jiǔ",
+    "meaning": "лук-порей",
+    "examples": ["韭", "韮", "韱", "韲"],
+    "strokes": 9
+  },
+  {
+    "id": 180,
+    "character": "音",
+    "pinyin": "yīn",
+    "meaning": "звук",
+    "examples": ["音", "韻", "響", "暗"],
+    "strokes": 9
+  },
+  {
+    "id": 181,
+    "character": "頁",
+    "pinyin": "yè",
+    "meaning": "страница, голова",
+    "examples": ["頁", "頭", "顔", "題"],
+    "strokes": 9,
+    "variant": "页"
+  },
+  {
+    "id": 182,
+    "character": "風",
+    "pinyin": "fēng",
+    "meaning": "ветер",
+    "examples": ["風", "颱", "飄", "颯"],
+    "strokes": 9,
+    "variant": "风"
+  },
+  {
+    "id": 183,
+    "character": "飛",
+    "pinyin": "fēi",
+    "meaning": "летать",
+    "examples": ["飛", "飜", "飝", "𠂤"],
+    "strokes": 9,
+    "variant": "飞"
+  },
+  {
+    "id": 184,
+    "character": "食",
+    "pinyin": "shí",
+    "meaning": "еда, есть",
+    "examples": ["食", "飯", "飲", "館"],
+    "strokes": 9,
+    "variant": "飠, 饣"
+  },
+  {
+    "id": 185,
+    "character": "首",
+    "pinyin": "shǒu",
+    "meaning": "голова, первый",
+    "examples": ["首", "馗", "馘", "𩠐"],
+    "strokes": 9
+  },
+  {
+    "id": 186,
+    "character": "香",
+    "pinyin": "xiāng",
+    "meaning": "аромат",
+    "examples": ["香", "馨", "馦", "馥"],
+    "strokes": 9
+  },
+  {
+    "id": 187,
+    "character": "馬",
+    "pinyin": "mǎ",
+    "meaning": "лошадь",
+    "examples": ["馬", "騎", "駐", "驚"],
+    "strokes": 10,
+    "variant": "马"
+  },
+  {
+    "id": 188,
+    "character": "骨",
+    "pinyin": "gǔ",
+    "meaning": "кость",
+    "examples": ["骨", "骸", "體", "髑"],
+    "strokes": 10
+  },
+  {
+    "id": 189,
+    "character": "高",
+    "pinyin": "gāo",
+    "meaning": "высокий",
+    "examples": ["高", "髙", "髚", "髛"],
+    "strokes": 10
+  },
+  {
+    "id": 190,
+    "character": "髟",
+    "pinyin": "biāo",
+    "meaning": "волосы",
+    "examples": ["髟", "髮", "鬚", "鬆"],
+    "strokes": 10
+  },
+  {
+    "id": 191,
+    "character": "鬥",
+    "pinyin": "dòu",
+    "meaning": "бороться, драться",
+    "examples": ["鬥", "鬧", "鬨", "鬪"],
+    "strokes": 10
+  },
+  {
+    "id": 192,
+    "character": "鬯",
+    "pinyin": "chàng",
+    "meaning": "жертвенное вино",
+    "examples": ["鬯", "鬱", "𩰁", "𩰄"],
+    "strokes": 10
+  },
+  {
+    "id": 193,
+    "character": "鬲",
+    "pinyin": "lì",
+    "meaning": "треножник, котёл",
+    "examples": ["鬲", "鬳", "鬴", "鬵"],
+    "strokes": 10
+  },
+  {
+    "id": 194,
+    "character": "鬼",
+    "pinyin": "guǐ",
+    "meaning": "призрак, демон",
+    "examples": ["鬼", "魂", "魅", "魔"],
+    "strokes": 10
+  },
+  {
+    "id": 195,
+    "character": "魚",
+    "pinyin": "yú",
+    "meaning": "рыба",
+    "examples": ["魚", "鮮", "漁", "魯"],
+    "strokes": 11,
+    "variant": "鱼"
+  },
+  {
+    "id": 196,
+    "character": "鳥",
+    "pinyin": "niǎo",
+    "meaning": "птица",
+    "examples": ["鳥", "鳴", "鶴", "鶏"],
+    "strokes": 11,
+    "variant": "鸟"
+  },
+  {
+    "id": 197,
+    "character": "鹵",
+    "pinyin": "lǔ",
+    "meaning": "соль",
+    "examples": ["鹵", "鹽", "鹶", "鹸"],
+    "strokes": 11,
+    "variant": "卤"
+  },
+  {
+    "id": 198,
+    "character": "鹿",
+    "pinyin": "lù",
+    "meaning": "олень",
+    "examples": ["鹿", "麗", "麟", "麋"],
+    "strokes": 11
+  },
+  {
+    "id": 199,
+    "character": "麥",
+    "pinyin": "mài",
+    "meaning": "пшеница",
+    "examples": ["麥", "麺", "麪", "麵"],
+    "strokes": 11,
+    "variant": "麦"
+  },
+  {
+    "id": 200,
+    "character": "麻",
+    "pinyin": "má",
+    "meaning": "конопля",
+    "examples": ["麻", "麿", "黁", "麼"],
+    "strokes": 11
+  },
+  {
+    "id": 201,
+    "character": "黃",
+    "pinyin": "huáng",
+    "meaning": "жёлтый",
+    "examples": ["黃", "黊", "黌", "潢"],
+    "strokes": 12,
+    "variant": "黄"
+  },
+  {
+    "id": 202,
+    "character": "黍",
+    "pinyin": "shǔ",
+    "meaning": "просо",
+    "examples": ["黍", "黏", "黎", "𪐄"],
+    "strokes": 12
+  },
+  {
+    "id": 203,
+    "character": "黑",
+    "pinyin": "hēi",
+    "meaning": "чёрный",
+    "examples": ["黑", "點", "黨", "默"],
+    "strokes": 12
+  },
+  {
+    "id": 204,
+    "character": "黹",
+    "pinyin": "zhǐ",
+    "meaning": "вышивка",
+    "examples": ["黹", "黻", "黼", "𪓌"],
+    "strokes": 12
+  },
+  {
+    "id": 205,
+    "character": "黽",
+    "pinyin": "mǐn",
+    "meaning": "лягушка, прилагать усилия",
+    "examples": ["黽", "黾", "鼈", "鼃"],
+    "strokes": 13
+  },
+  {
+    "id": 206,
+    "character": "鼎",
+    "pinyin": "dǐng",
+    "meaning": "треножник, сосуд",
+    "examples": ["鼎", "鼏", "鼐", "鼒"],
+    "strokes": 13
+  },
+  {
+    "id": 207,
+    "character": "鼓",
+    "pinyin": "gǔ",
+    "meaning": "барабан",
+    "examples": ["鼓", "鼔", "鼕", "鼙"],
+    "strokes": 13
+  },
+  {
+    "id": 208,
+    "character": "鼠",
+    "pinyin": "shǔ",
+    "meaning": "крыса, мышь",
+    "examples": ["鼠", "鼡", "鼢", "鼩"],
+    "strokes": 13
+  },
+  {
+    "id": 209,
+    "character": "鼻",
+    "pinyin": "bí",
+    "meaning": "нос",
+    "examples": ["鼻", "鼾", "鼽", "齅"],
+    "strokes": 14
+  },
+  {
+    "id": 210,
+    "character": "齊",
+    "pinyin": "qí",
+    "meaning": "равный, вместе",
+    "examples": ["齊", "斉", "齋", "齎"],
+    "strokes": 14,
+    "variant": "齐, 斉"
+  },
+  {
+    "id": 211,
+    "character": "齒",
+    "pinyin": "chǐ",
+    "meaning": "зуб",
+    "examples": ["齒", "齢", "齣", "齧"],
+    "strokes": 15,
+    "variant": "齿, 歯"
+  },
+  {
+    "id": 212,
+    "character": "龍",
+    "pinyin": "lóng",
+    "meaning": "дракон",
+    "examples": ["龍", "龐", "龖", "龗"],
+    "strokes": 16,
+    "variant": "龙, 竜"
+  },
+  {
+    "id": 213,
+    "character": "龜",
+    "pinyin": "guī",
+    "meaning": "черепаха",
+    "examples": ["龜", "龝", "龞", "𪚲"],
+    "strokes": 16,
+    "variant": "龟, 亀"
+  },
+  {
+    "id": 214,
+    "character": "龠",
+    "pinyin": "yuè",
+    "meaning": "флейта",
+    "examples": ["龡", "龢", "龣", "龤"],
+    "strokes": 17
+  }
+]
